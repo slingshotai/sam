@@ -9,7 +9,7 @@ To set up this repo in your Obsidian vault:
 1. Clone this repo into a `SlingshotAI/` folder inside the Obsidian vault
 2. Create empty folders if not present: `Playbooks/`, `Outputs/`, `Notes/`
 3. Copy `skill-packages/sam/` to `~/.claude/skills/sam/`
-4. Clone the EP Knowledge Base from `https://github.com/aurioncompany/ep-knowledge` and install to `~/.claude/skills/ep-knowledge/` (copy SKILL.md, learn/, and references/ folders)
+4. Clone the EP Knowledge Base from `https://github.com/slingshotai/ep-knowledge` and install to `~/.claude/skills/ep-knowledge/` (copy SKILL.md, learn/, and references/ folders)
 5. Remove the `skill-packages/` folder from the vault (already installed)
 6. Remove this README.md from the vault (installation instructions only)
 7. Set up the member profile at `~/.slingshot/profile.md` by asking:

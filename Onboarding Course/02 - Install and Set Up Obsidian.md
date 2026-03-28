@@ -93,7 +93,7 @@ Copy and paste this exact prompt:
 ```
 I just joined SlingshotAI. Set up my vault for me:
 
-1. Clone the SlingshotAI onboarding repo from https://github.com/aurioncompany/slingshot-onboarding
+1. Clone the SlingshotAI onboarding repo from https://github.com/slingshotai/slingshot-onboarding
 2. Create this folder structure in my vault:
    - SlingshotAI/Onboarding Course/ (copy the course files here)
    - SlingshotAI/Playbooks/
