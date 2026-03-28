@@ -8,6 +8,7 @@ You've completed the SlingshotAI onboarding. Here's what you've set up:
 - **Obsidian** — your knowledge base, connected to Claude
 - **SAM** — your learning mentor, configured with your business profile
 - **Brand Voice** — your first skill, installed and run on your brand
+- **EP Knowledge Base** — 283+ tagged podcast episodes searchable by Slingshot area, FUEL stage, and topic
 - **API key setup** — ready for any skill that needs external connections (if you completed Module 6)
 
 You're now equipped to install, run, and learn from any skill in the SlingshotAI catalogue.

@@ -1,0 +1,2842 @@
+# EP Episode Index — Complete
+# All 285 episodes tagged per SlingshotAI tagging playbook
+# Generated: 2026-03-28
+
+episodes:
+
+  - episode: 1
+    title: "A New eCommerce Podcast"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-06-18
+    slingshot_areas: [Sell, Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, content-marketing, expert-insights, organic-growth, best-practices]
+    key_takeaway: "Competing with Amazon requires exploiting niche advantages like specialised expertise, personal relationships, and brand stories that giants cannot replicate."
+    related_skills: []
+  - episode: 2
+    title: "From Kitchen Table to Worldwide"
+    guest: "Simon Cavill"
+    company: "Bee Good"
+    date: 2019-06-25
+    slingshot_areas: [Sell, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [market-research-entry, amazon-marketplace, international-logistics, organic-growth, brand-strategy]
+    key_takeaway: "Leverage marketplace platforms like Amazon Pan-European and PayPal buttons to test international markets before investing in country-specific websites."
+    related_skills: []
+  - episode: 3
+    title: "Coaching Call Tackling Reviews"
+    guest: "Dan Henders"
+    company: "Beard and Bones"
+    date: 2019-06-26
+    slingshot_areas: [Experience, Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [reviews-ratings, email-automation, user-generated-content, customer-retention, trust-signals]
+    key_takeaway: "Implement a five-day post-purchase email sequence to collect reviews, because fewer than 1% of customers will leave one without a frictionless prompt."
+    related_skills: [page-check]
+  - episode: 4
+    title: "How to Sell a $6,000 Sweater Online"
+    guest: "Casey Golden"
+    company: "Lux Lock"
+    date: 2019-06-27
+    slingshot_areas: [Story, Experience]
+    fuel_stages: [Elevate]
+    menu_tags: [brand-experience, brand-strategy, behavioural-personalisation, product-page-optimisation, customer-segmentation]
+    key_takeaway: "In luxury eCommerce, service becomes part of the product itself — concierge experiences at scale justify premium pricing without discounting."
+    related_skills: [brand-voice, moby]
+  - episode: 5
+    title: "Go Niche to Sell Great Products Online"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-07-23
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation]
+    menu_tags: [market-research, business-planning-strategy, content-marketing, ad-performance-optimisation, brand-strategy]
+    key_takeaway: "Niching down makes marketing dramatically cheaper because you target specific audiences with far less competition instead of fighting for generic keywords."
+    related_skills: []
+  - episode: 6
+    title: "Product Research for Your eCommerce Business"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-07-30
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation]
+    menu_tags: [market-research, product-descriptions, pricing-strategies, product-page-optimisation, best-practices]
+    key_takeaway: "A four-step research process — competitors, numbers, qualification, presentation — turned one beauty product into over 100K in sales versus unsold sunglasses stock."
+    related_skills: []
+  - episode: 7
+    title: "Suppliers Can Make or Break Your Business"
+    guest: "Matt Edmundson"
+    company: "Aurion Company"
+    date: 2019-07-30
+    slingshot_areas: [Sell, Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [supply-chain-sourcing, business-planning-strategy, organic-growth, case-studies, best-practices]
+    key_takeaway: "One supplier policy change cost 38 million in lost sales — never let a single supplier account for more than a manageable percentage of revenue."
+    related_skills: []
+  - episode: 8
+    title: "How to Grow a Niche Clothing Brand Online"
+    guest: "Sam Morgan"
+    company: "Paria"
+    date: 2019-08-15
+    slingshot_areas: [Story, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-strategy, influencer-strategy, creator-partnerships, social-content, content-marketing]
+    key_takeaway: "Build stable base revenue through custom team orders, then layer seasonal peaks and brand extensions to eliminate boom-and-bust volatility."
+    related_skills: [brand-voice]
+  - episode: 9
+    title: "A Proven Framework to Grow Successful eCommerce Businesses"
+    guest: "Matt Edmundson"
+    company: "Aurion Company"
+    date: 2019-08-19
+    slingshot_areas: [Sell, Optimise, Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, platform-selection, product-page-optimisation, customer-retention, best-practices]
+    key_takeaway: "The JERSEY Framework covers six sequential components — products, platform, conversion, marketing, experience, retention — as a diagnostic and building tool."
+    related_skills: []
+  - episode: 10
+    title: "Solving the Traffic But No Sales Problem for Your eCommerce Site"
+    guest: "Matt Edmundson"
+    company: "Aurion Company"
+    date: 2019-08-28
+    slingshot_areas: [Optimise, Sell]
+    fuel_stages: [Foundation]
+    menu_tags: [product-page-optimisation, conversion-tracking, market-research, checkout-cart-optimisation, best-practices]
+    key_takeaway: "Nine times out of ten, traffic without sales starts with wrong product selection — diagnose systematically using the JERSEY Framework before blaming marketing."
+    related_skills: [moby, page-check]
+  - episode: 11
+    title: "10 eCommerce Tips for Christmas Readiness"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-09-03
+    slingshot_areas: [Marketing, Experience]
+    fuel_stages: [Foundation]
+    menu_tags: [holiday-marketing, year-round-planning, shipping-strategy, email-campaigns, special-offers]
+    key_takeaway: "Most Christmas profits come from October and November purchases, not December — start planning in September or you miss the primary selling window."
+    related_skills: []
+  - episode: 12
+    title: "Ways to Approach Just Another Black Friday"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-09-10
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [black-friday-cyber-monday, discount-strategies, special-offers, brand-strategy, year-round-planning]
+    key_takeaway: "Jersey Beauty Company opted out of traditional Black Friday discounting and saw profits increase by focusing on customer value rather than price cuts."
+    related_skills: []
+  - episode: 13
+    title: "Understanding the Real Costs of eCommerce Shipping for Your Business"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-09-17
+    slingshot_areas: [Experience]
+    fuel_stages: [Foundation]
+    menu_tags: [shipping-strategy, warehouse-management, order-processing, sustainable-shipping, returns-exchanges]
+    key_takeaway: "Implementing barcode scanning for order verification saved over 7,000 per month in costs from incorrect shipments, collections, and reshipping."
+    related_skills: []
+  - episode: 14
+    title: "Create a Content Marketing Strategy That Will Grow Your Business"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-10-15
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [content-marketing, content-planning, content-distribution, seo-content-writing, brand-content]
+    key_takeaway: "Follow four steps — define strategy, create valuable content, commit to consistency, distribute deliberately — because consistency trumps perfection in content marketing."
+    related_skills: [igap]
+  - episode: 15
+    title: "The Five Essential Emails for Successful eCommerce Email Marketing"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-10-22
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [email-campaigns, email-automation, email-content, customer-segmentation, customer-retention]
+    key_takeaway: "Email marketing delivers 122% average ROI — four times higher than any other digital channel — yet most businesses use only one or two of the five essential email types."
+    related_skills: []
+  - episode: 16
+    title: "Podcasting for Your eCommerce Business and a Review of Season 1"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2019-11-20
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [content-marketing, content-planning, video-marketing, content-distribution, brand-content]
+    key_takeaway: "One podcast recording generates content across multiple channels — blog posts, social quotes, email newsletters — maximising return on time invested."
+    related_skills: [igap]
+  - episode: 17
+    title: "How to Get Traffic That Buys to Your Website"
+    guest: "Chloe Thomas"
+    company: "eCommerce MasterPlan"
+    date: 2020-04-08
+    slingshot_areas: [Marketing, Optimise]
+    fuel_stages: [Foundation]
+    menu_tags: [product-page-seo, google-ads, email-campaigns, attribution-analysis, conversion-tracking]
+    key_takeaway: "Three core marketing methods — SEO, search advertising, and email — drive 75% of eCommerce traffic, so master these before diversifying to other channels."
+    related_skills: []
+  - episode: 18
+    title: "Seven Steps to Your Personal Brand"
+    guest: "Ian Moyse"
+    company: "Natterbox"
+    date: 2020-04-16
+    slingshot_areas: [Story]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-strategy, social-content, social-commerce-strategy, content-planning, expert-insights]
+    key_takeaway: "Your personal brand carries real business equity — scientifically test your profile photo, choose platforms where customers actually are, and invest 30 minutes daily."
+    related_skills: [brand-voice]
+  - episode: 19
+    title: "The 3 Pillars of SEO"
+    guest: "Alina Ghost"
+    company: "Amara"
+    date: 2020-04-23
+    slingshot_areas: [Marketing, Tech Stack]
+    fuel_stages: [Foundation]
+    menu_tags: [technical-seo, product-page-seo, category-optimisation, content-marketing, navigation-architecture]
+    key_takeaway: "SEO breaks into three manageable pillars — technical foundations, strategic content, and authoritative links — and misconfiguring your robots.txt can hide your entire site from Google."
+    related_skills: [moby]
+  - episode: 20
+    title: "Understanding Growth Hacking for Your Business"
+    guest: "Chris Raven"
+    company: "Heur"
+    date: 2020-04-29
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [business-planning-strategy, campaign-performance, attribution-analysis, reporting-dashboards, best-practices]
+    key_takeaway: "Replace scattered tactics with holistic strategy across four pillars — Awareness, Acquisition, Conversion, Retention — and prioritise ruthlessly using ICE scoring."
+    related_skills: []
+  - episode: 21
+    title: "Three Top Tips for Startup Success"
+    guest: "Heikki Haldre"
+    company: "Miros"
+    date: 2020-05-07
+    slingshot_areas: [Sell, Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, partnerships-collaborations, funding-investment, market-research, expert-insights]
+    key_takeaway: "Get a co-founder with a proper vesting schedule, solve your own problem for sustainable competitive advantage, and have the courage to try ideas others call silly."
+    related_skills: []
+  - episode: 22
+    title: "Why You Should Barcode Every Product"
+    guest: "Lorna Leaver"
+    company: "GS1 UK"
+    date: 2020-05-14
+    slingshot_areas: [Tech Stack]
+    fuel_stages: [Foundation]
+    menu_tags: [product-information, inventory-management, amazon-marketplace, order-processing, product-syndication]
+    key_takeaway: "GTINs serve as product passports enabling global commerce — Amazon verifies GS1 barcodes daily, and unofficial codes will fail marketplace verification."
+    related_skills: []
+  - episode: 23
+    title: "Weapons of Influence and Their Application to eCommerce"
+    guest: "Meyrick D'Souza"
+    company: null
+    date: 2020-05-21
+    slingshot_areas: [Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-page-optimisation, trust-signals, reviews-ratings, behavioural-personalisation, best-practices]
+    key_takeaway: "Six psychological triggers — reciprocity, scarcity, authority, consistency, liking, consensus — drive every purchasing decision and provide lasting competitive advantage."
+    related_skills: [moby, page-check]
+  - episode: 24
+    title: "The Digital Marketing Strategy You Need to Transform Your Business"
+    guest: "James Pybus"
+    company: "Digital Marketing Mentoring"
+    date: 2020-05-28
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-page-seo, google-ads, ad-performance-optimisation, analytics-setup, reporting-dashboards]
+    key_takeaway: "Integrated keyword research across SEO, paid ads, and content saved one client 11,000 per month — siloed teams doing separate research waste massive budgets."
+    related_skills: []
+  - episode: 25
+    title: "How to Sell Personalised Products through Dropshipping"
+    guest: "Brian O'Donnell"
+    company: "Map Marketing"
+    date: 2020-06-04
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [dropshipping-pod, product-descriptions, supply-chain-sourcing, brand-strategy, pricing-strategies]
+    key_takeaway: "Personalisation transforms dropshipping from a price war into a premium model — Map Marketing sells personalised jigsaws at five times commodity prices."
+    related_skills: []
+  - episode: 26
+    title: "The Role of Customer Generated Content for an eCommerce Business"
+    guest: "Joanna Steele"
+    company: "Dimax Digital"
+    date: 2020-07-11
+    slingshot_areas: [Optimise, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [reviews-ratings, user-generated-content, trust-signals, product-page-optimisation, content-marketing]
+    key_takeaway: "Products with reviews convert 33-51% higher than those without — eight reviews is the magic number for SEO benefits, and even negative reviews outperform zero reviews."
+    related_skills: [page-check]
+  - episode: 27
+    title: "Outsourcing, Remote Teams and Blogging Your Way to Bigger eCommerce Profits"
+    guest: "Jesse Schoberg"
+    company: "Schoberg"
+    date: 2020-08-19
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [content-marketing, seo-content-writing, content-outsourcing, content-workflows, best-practices]
+    key_takeaway: "Content marketing creates compounding returns that paid ads never will — one well-researched 2,000-word article outranks ten thin posts and generates traffic for years."
+    related_skills: [igap]
+  - episode: 28
+    title: "What Does Customer Focus Look Like for an eCommerce Business"
+    guest: "Neil Roberts"
+    company: "Moo"
+    date: 2020-08-20
+    slingshot_areas: [Optimise, Experience]
+    fuel_stages: [Foundation]
+    menu_tags: [navigation-architecture, product-page-optimisation, site-performance, user-behaviour, mobile-responsive-design]
+    key_takeaway: "Get out of customers' way — they visit for your product, not your website, so prioritise removing friction over adding clever features."
+    related_skills: [moby, page-check]
+  - episode: 29
+    title: "How Social Selling Can Grow Your Business"
+    guest: "Tim Hughes"
+    company: "DLA Ignite"
+    date: 2020-08-27
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock]
+    menu_tags: [social-commerce-strategy, brand-strategy, social-content, content-marketing, expert-insights]
+    key_takeaway: "BMW UK generated 120 qualified leads through LinkedIn content alone — build personal brand, network, and content instead of cold calling and advertising."
+    related_skills: [brand-voice]
+  - episode: 30
+    title: "Fixing the Biggest Problem with Shopify: I Have Traffic But No Sales"
+    guest: "Elle McCann"
+    company: "Curious Themes"
+    date: 2020-09-03
+    slingshot_areas: [Optimise, Sell]
+    fuel_stages: [Foundation]
+    menu_tags: [platform-selection, product-page-optimisation, market-research, customer-segmentation, product-descriptions]
+    key_takeaway: "Shopify's ease of setup creates a dangerous trap — speed without strategy produces stores with no clear customer, no product identity, and no conversions."
+    related_skills: [moby, page-check]
+  - episode: 31
+    title: "How to Tell Stories That Convert"
+    guest: "Marcus Cauchi"
+    company: "Sandler Training"
+    date: 2020-09-10
+    slingshot_areas: [Story, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-content, brand-strategy, reviews-ratings, user-generated-content, product-descriptions]
+    key_takeaway: "Make your customer the hero of the story, not your brand — one fashion company added 12 million in quarterly revenue by understanding and telling customer stories."
+    related_skills: [brand-voice]
+  - episode: 32
+    title: "How to Optimise Engagement Through Customer Lifecycle Marketing"
+    guest: "Kath Pay"
+    company: "Holistic Email Academy"
+    date: 2020-09-17
+    slingshot_areas: [Marketing, Experience]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [email-automation, email-campaigns, customer-segmentation, customer-retention, omnichannel-messaging]
+    key_takeaway: "Lifecycle email marketing tailors communication to each customer's stage — strategy must drive tactics, not the reverse, to capture email's proven 122% ROI."
+    related_skills: []
+  - episode: 33
+    title: "8 Step Blueprint for Building a Successful eCommerce Business"
+    guest: "JJ Resnick"
+    company: "Build My Brand"
+    date: 2020-09-24
+    slingshot_areas: [Sell, Marketing, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [market-research, amazon-marketplace, email-automation, brand-strategy, organic-growth]
+    key_takeaway: "Focus on one marketing channel until it works before diversifying — JJ built four exits in five years using quiz funnels that generate 10-15 cent leads."
+    related_skills: []
+  - episode: 34
+    title: "How to Improve Your Website with Behavioural Design"
+    guest: "Padraig Walsh"
+    company: "Actualise Academy"
+    date: 2020-10-01
+    slingshot_areas: [Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-page-optimisation, navigation-architecture, user-behaviour, behavioural-personalisation, mobile-responsive-design]
+    key_takeaway: "The unconscious System One brain drives most online purchases — familiar layouts outperform creative ones because reduced cognitive load increases conversion."
+    related_skills: [moby, page-check]
+  - episode: 35
+    title: "How to Prepare for Black Friday and Cyber Monday"
+    guest: "Chloe Thomas"
+    company: "eCommerce MasterPlan"
+    date: 2020-10-08
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [black-friday-cyber-monday, email-campaigns, year-round-planning, ab-testing, discount-strategies]
+    key_takeaway: "Eight eCommerce experts all focused on preparation over tactics — warm audiences weeks before Black Friday and eliminate voucher codes that overwhelm customer service."
+    related_skills: []
+  - episode: 36
+    title: "How to Take Small Steps to Grow Your eCommerce Profits"
+    guest: "Tony Guarnaccia"
+    company: "Tony Guarnaccia"
+    date: 2020-10-15
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, customer-retention, revenue-analytics, customer-intelligence, best-practices]
+    key_takeaway: "Start with loyalty, not marketing — the Results Loop shows six interconnected growth factors where small improvements compound when applied in the correct sequence."
+    related_skills: []
+  - episode: 37
+    title: "How to Sell Your eCommerce Business"
+    guest: "Brad Wayland"
+    company: "Quiet Light"
+    date: 2020-11-09
+    slingshot_areas: [Growth]
+    fuel_stages: [Elevate]
+    menu_tags: [mergers-acquisitions, business-planning-strategy, revenue-analytics, financial-planning, expert-insights]
+    key_takeaway: "95% of traditional eCommerce businesses sell between 2.5-3.5 times annual profit — reckless honesty about valuations leads to more deals closing at asking price."
+    related_skills: []
+  - episode: 38
+    title: "How to Use Pinterest for Selling on Etsy"
+    guest: "Nancy Badillo"
+    company: "Nancy Badillo"
+    date: 2020-11-12
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock]
+    menu_tags: [social-shopping-platforms, social-commerce-strategy, content-distribution, marketplace-optimisation, social-content]
+    key_takeaway: "Pinterest drives 90% of traffic organically as a search engine — with fewer than 4,000 followers, Nancy built a six-figure Etsy business with zero ad spend."
+    related_skills: []
+  - episode: 39
+    title: "How to Convince Customers to Buy From You Instead of Your Competition"
+    guest: "Jessica Totillo"
+    company: "eCommerce Badassery"
+    date: 2020-11-19
+    slingshot_areas: [Story, Optimise]
+    fuel_stages: [Foundation]
+    menu_tags: [brand-strategy, brand-content, product-photography, video-marketing, trust-signals]
+    key_takeaway: "Being authentically yourself is your greatest competitive advantage — ask what your customer actually needs rather than copying competitors or chasing trends."
+    related_skills: [brand-voice]
+  - episode: 40
+    title: "Is Your eCommerce Site Ready for Christmas 2020"
+    guest: "Matt Edmundson & Guests"
+    company: "Aurion"
+    date: 2020-11-26
+    slingshot_areas: [Marketing, Experience]
+    fuel_stages: [Foundation]
+    menu_tags: [holiday-marketing, year-round-planning, special-offers, shipping-strategy, email-campaigns]
+    key_takeaway: "Preparation beats improvisation every Christmas — offer free personalisation or specialty gift wrapping instead of joining the desperate discount race to the bottom."
+    related_skills: []
+  - episode: 41
+    title: "What to Expect From a COVID Christmas"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2020-12-03
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [holiday-marketing, trends-research, behavioural-personalisation, business-planning-strategy, best-practices]
+    key_takeaway: "Hope is never a business strategy — when brick-and-mortar faces restrictions, prepared eCommerce businesses capture market share by creating the right emotional experience."
+    related_skills: []
+  - episode: 42
+    title: "Top Content and Marketing Advice for Your Online Business This Christmas"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2020-12-10
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [content-marketing, email-campaigns, email-automation, ab-testing, holiday-marketing]
+    key_takeaway: "Double down on content already ranking rather than creating new Christmas content — beef up winning articles with better CTAs to capture the seasonal traffic surge."
+    related_skills: [igap]
+  - episode: 43
+    title: "What Are You Taking From 2020 into 2021 (Part 1)"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2020-12-17
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, trends-research, reporting-dashboards, best-practices, expert-insights]
+    key_takeaway: "Businesses with robust systems survived 2020 while others scrambled — resilience comes from building proper foundations, not from hoping challenges will pass."
+    related_skills: []
+  - episode: 44
+    title: "What Are You Taking From 2020 into 2021 (Part 2)"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2020-12-24
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [content-marketing, seo-content-writing, social-commerce-strategy, mergers-acquisitions, trends-research]
+    key_takeaway: "One quality 2,000-word article outranks ten thin posts — content marketing thrived in 2020 because locked-down consumers engaged heavily with genuinely helpful content."
+    related_skills: [igap]
+  - episode: 45
+    title: "Is Amazon Right for Your Digital Business"
+    guest: "Jon Tilley"
+    company: "Zonguru"
+    date: 2021-01-21
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock]
+    menu_tags: [amazon-marketplace, marketplace-optimisation, market-research, multi-marketplace, organic-growth]
+    key_takeaway: "Amazon listings can achieve 30% conversion rates versus 2-3% on own sites — use the niche-within-a-niche strategy and treat Amazon as a customer acquisition channel."
+    related_skills: []
+  - episode: 46
+    title: "How Not to Waste a Bunch of Money on Crappy Ad Campaigns"
+    guest: "Jarod Spiewak"
+    company: "Blue Dog Media"
+    date: 2021-01-28
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [google-ads, ad-performance-optimisation, social-media-ads, customer-segmentation, conversion-tracking]
+    key_takeaway: "Start at step one with buyer personas, not step five with keywords — proper strategy transforms 1% conversion rates into 5-7% and can reduce wasted spend by 60-80%."
+    related_skills: []
+  - episode: 47
+    title: "Why Everything You Know About Email Marketing Could Be Wrong"
+    guest: "Gabriella Rapone"
+    company: "Email Maverick"
+    date: 2021-02-04
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [email-campaigns, email-automation, customer-segmentation, data-strategy, customer-intelligence]
+    key_takeaway: "Email reputation is the foundation nobody teaches — Hotmail subscribers are more profitable than Gmail, and most businesses have never analysed their list by domain."
+    related_skills: []
+  - episode: 48
+    title: "How to Improve Your Omnichannel Customer Service"
+    guest: "Rytis Lauris"
+    company: "Omnisend"
+    date: 2021-02-11
+    slingshot_areas: [Marketing, Experience]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [omnichannel-messaging, email-automation, sms-messaging, customer-retention, push-notifications]
+    key_takeaway: "Automations generate 47% of email revenue from just 2% of sends — combine email, SMS, and push notifications to let customers choose their preferred channel."
+    related_skills: []
+  - episode: 49
+    title: "Optimise Conversion Rates Using Buyer Psychology"
+    guest: "Rishi Rawat"
+    company: "Frictionless Commerce"
+    date: 2021-02-18
+    slingshot_areas: [Optimise]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [product-page-optimisation, behavioural-personalisation, user-behaviour, ab-testing, conversion-tracking]
+    key_takeaway: "90% of visitors are first-timers converting at just 4% — nine psychological triggers and personalisation tactics achieved 50% conversion improvements on product pages."
+    related_skills: [moby, page-check]
+  - episode: 50
+    title: "How Long Does It Take to Make Money With Your eCommerce Startup?"
+    guest: "Darwin Liu"
+    company: "X Agency"
+    date: 2021-02-24
+    slingshot_areas: [Growth, Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, financial-planning, workflow-automation, partnerships-collaborations, organic-growth]
+    key_takeaway: "One startup profited in four months while an identical strategy failed after a year — the difference was building audience first instead of branding like Nike from day one."
+    related_skills: []
+
+- episode: 51
+  title: "Personalising the Customer Journey to Increase Lifetime Value"
+  guest: "Matt Barnett"
+  company: "Bonjoro"
+  date: 2021-03-03
+  slingshot_areas: [Experience, Growth]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [customer-retention, post-purchase-support, brand-experience, customer-intelligence, video-marketing]
+  key_takeaway: "Sending a 30-second personalised video after purchase increased customer lifetime value by 300% by automating the process whilst keeping the relationship human."
+  related_skills: []
+- episode: 52
+  title: "How Bots Can Help Grow Your eCommerce Business"
+  guest: "Fara Rosenzweig"
+  company: "ZEALS AI"
+  date: 2021-03-18
+  slingshot_areas: [Tech Stack, Experience]
+  fuel_stages: [Unlock]
+  menu_tags: [conversational-ai, self-service-automation, live-chat-messaging, workflow-automation, customer-retention]
+  key_takeaway: "70% of customer enquiries are repetitive and automatable; a chatbot built in 7-10 hours can reclaim 20+ hours per week whilst maintaining your brand voice."
+  related_skills: []
+- episode: 53
+  title: "How Automation Can Help Your Business"
+  guest: "Richard Schnitzel"
+  company: "KRCrossing Consulting"
+  date: 2021-03-25
+  slingshot_areas: [Tech Stack, Experience]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [workflow-automation, operational-automation, order-processing, email-automation, reporting-dashboards]
+  key_takeaway: "Automation is a multiplier that amplifies good processes and exposes bad ones — fix the process first, then define clear bookends before automating anything."
+  related_skills: []
+- episode: 54
+  title: "Creative That Drives the Click Through"
+  guest: "Lauren Schwartz"
+  company: "The Loft 325"
+  date: 2021-04-01
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [campaign-creative, social-media-ads, ad-performance-optimisation, video-marketing, social-content]
+  key_takeaway: "You have six seconds to capture attention in ads; lead with benefits not features, and optimise for the 80% watching with sound off using text overlays."
+  related_skills: [igap]
+- episode: 55
+  title: "How to Beat Amazon at Its Own Game"
+  guest: "Jeremy Bodenhamer"
+  company: "ShipHawk"
+  date: 2021-04-22
+  slingshot_areas: [Story, Experience]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [brand-strategy, shipping-strategy, warehouse-management, sustainable-shipping, brand-experience]
+  key_takeaway: "Amazon cannot replicate your authentic mission-driven story; combine brand authenticity with distribution excellence across six pillars to build a defensible competitive moat."
+  related_skills: [brand-voice]
+- episode: 56
+  title: "Things to Think About When Choosing an eCommerce Platform"
+  guest: "Brandi Bernoskie"
+  company: "Alchemy and Aim"
+  date: 2021-04-29
+  slingshot_areas: [Tech Stack]
+  fuel_stages: [Foundation]
+  menu_tags: [platform-selection, architecture-hosting, business-planning-strategy, integrations-apis, best-practices]
+  key_takeaway: "One hour of expert platform consultation saves thousands in future migration costs — understand your business model before comparing features."
+  related_skills: []
+- episode: 57
+  title: "From Startup to Growth"
+  guest: "Maureen Mwangi"
+  company: "Startward Consulting"
+  date: 2021-05-05
+  slingshot_areas: [Story, Sell]
+  fuel_stages: [Foundation]
+  menu_tags: [brand-strategy, market-research, customer-communities, content-planning, business-planning-strategy]
+  key_takeaway: "Build your brand and community before your product — shifting from product-first to brand-first thinking lets you validate demand before investing in inventory."
+  related_skills: [brand-voice]
+- episode: 58
+  title: "How to 10x Your Investment With an Agency Partner"
+  guest: "Chase Clymer"
+  company: "Electric Eye"
+  date: 2021-05-13
+  slingshot_areas: [Tech Stack, Marketing]
+  fuel_stages: [Unlock]
+  menu_tags: [content-outsourcing, vendor-directory, business-planning-strategy, platform-selection, best-practices]
+  key_takeaway: "Agencies excel at taking good performance and making it better; achieve product-market fit yourself first, then hire specialists (not generalists) with track records in your platform."
+  related_skills: []
+- episode: 59
+  title: "The Real Personal Touch — A Sneak Peak from eCommerce Masterplan Summit"
+  guest: "Chloe Thomas"
+  company: "eCommerce Masterplan"
+  date: 2021-05-20
+  slingshot_areas: [Experience]
+  fuel_stages: [Foundation]
+  menu_tags: [post-purchase-support, brand-experience, customer-retention, visual-identity, best-practices]
+  key_takeaway: "A custom packaging stamp costing under 20 pounds creates immediate brand differentiation — unexpected free gifts and handwritten notes turn first-time buyers into repeat customers."
+  related_skills: []
+- episode: 60
+  title: "How to Create Social Media Content that Converts"
+  guest: "Xenia Muntean"
+  company: "Planable"
+  date: 2021-05-27
+  slingshot_areas: [Marketing]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [social-content, content-planning, social-commerce-strategy, user-generated-content, brand-content]
+  key_takeaway: "Focus on one platform and two goals to escape decision paralysis, then build content around three pillars: problems solved, brand values, and use cases tied to events."
+  related_skills: [igap]
+- episode: 61
+  title: "Is Customer Value Optimisation the Real Silver Bullet of eCommerce?"
+  guest: "Will Laurenson"
+  company: "Customers Who Click"
+  date: 2021-06-03
+  slingshot_areas: [Experience, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [customer-retention, post-purchase-support, reviews-ratings, email-automation, customer-intelligence]
+  key_takeaway: "A single automated follow-up email two days after delivery — asking if everything arrived okay — can convert negative reviews into five-star ratings by catching service issues before they become public."
+  related_skills: []
+- episode: 62
+  title: "Why Web Analytics Are Key to Growth"
+  guest: "Michael Loban"
+  company: "InfoTrust"
+  date: 2021-06-29
+  slingshot_areas: [Optimise]
+  fuel_stages: [Foundation]
+  menu_tags: [analytics-setup, conversion-tracking, reporting-dashboards, user-behaviour, data-strategy]
+  key_takeaway: "Create a measurement plan before selecting tools — 2-3% improvements across multiple metrics compound into transformative growth when you stop letting tools substitute for strategy."
+  related_skills: []
+- episode: 63
+  title: "Using the New Instagram Automation Feature to Grow Your Online Business"
+  guest: "Mike Yan"
+  company: "ManyChat"
+  date: 2021-07-07
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock, Leapfrog]
+  menu_tags: [sms-messaging, social-commerce-strategy, workflow-automation, omnichannel-messaging, social-shopping-platforms]
+  key_takeaway: "Instagram DM automation delivers 50-80% conversion rates versus 10-20% for landing pages; use keyword triggers in Stories to build email lists whilst the channel is still underutilised."
+  related_skills: []
+- episode: 64
+  title: "The Perfect Warehouse Could Save You TIME, MONEY and MAKE YOUR LIFE EASIER"
+  guest: "Justin Smith"
+  company: "Lee & Associates"
+  date: 2021-09-02
+  slingshot_areas: [Tech Stack]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [warehouse-management, shipping-strategy, order-processing, supply-chain-sourcing, operational-automation]
+  key_takeaway: "Start warehouse planning six months ahead — with only 3-4% market availability, strategic location decisions and equipment lead times make reactive moves catastrophically expensive."
+  related_skills: []
+- episode: 65
+  title: "Marry Your Business to a Strategy and the Money Will Follow"
+  guest: "Mike Jones"
+  company: "LBI Consulting"
+  date: 2021-09-09
+  slingshot_areas: [Story]
+  fuel_stages: [Foundation]
+  menu_tags: [business-planning-strategy, brand-strategy, organic-growth, expert-insights, best-practices]
+  key_takeaway: "Strategy is about choices, not revenue targets — answer 'what are you trying to win at' and fit your entire strategy on five pages that everyone can remember and act on."
+  related_skills: []
+- episode: 66
+  title: "Content Strategy Is My New BFF! Why It's Essential For Successful eCommerce"
+  guest: "Katie Wight"
+  company: "KW Content"
+  date: 2021-09-15
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [content-planning, social-content, content-marketing, brand-content, social-commerce-strategy]
+  key_takeaway: "A strategic organic social media overhaul increased one brand's average order value from 75 to 150 pounds — content strategy at the intersection of persona, USP, and competitive white space drives measurable revenue."
+  related_skills: [igap, brand-voice]
+- episode: 67
+  title: "Referral Marketing JUST Got EASY"
+  guest: "Raul Galera"
+  company: "Referral Candy"
+  date: 2021-09-29
+  slingshot_areas: [Marketing, Growth]
+  fuel_stages: [Unlock]
+  menu_tags: [referral-programmes, partner-network-growth, customer-retention, organic-growth, customer-intelligence]
+  key_takeaway: "Referral programmes add 2-10% to your bottom line with zero extra ad spend; give referred friends a bigger reward than advocates because their conversion matters most."
+  related_skills: []
+- episode: 68
+  title: "Branding Basics: What To Consider When Branding Your Business"
+  guest: "Josh Catchpole"
+  company: "Josh Catchpole Designs"
+  date: 2021-10-06
+  slingshot_areas: [Story]
+  fuel_stages: [Foundation]
+  menu_tags: [brand-strategy, visual-identity, brand-content, brand-experience, best-practices]
+  key_takeaway: "Your brand is your business personality, not your logo — start by defining values and culture, then use mood boards to translate abstract concepts into concrete visual language."
+  related_skills: [brand-voice]
+- episode: 69
+  title: "The Real Truth About Running an eCommerce Business During COVID 19"
+  guest: "Kristi Soomer"
+  company: "Encircled"
+  date: 2021-10-07
+  slingshot_areas: [Sell, Story]
+  fuel_stages: [Foundation]
+  menu_tags: [business-planning-strategy, supply-chain-sourcing, brand-strategy, customer-retention, inventory-management]
+  key_takeaway: "When demand shifts, resist chasing trends that dilute your brand — Encircled recovered by refocusing on core differentiators after pandemic distractions nearly commoditised their product line."
+  related_skills: [brand-voice]
+- episode: 70
+  title: "How to Effectively Set Up and Scale Your Business to Sale"
+  guest: "Ben Leonard"
+  company: "Ecom Brokers"
+  date: 2021-10-20
+  slingshot_areas: [Growth]
+  fuel_stages: [Elevate]
+  menu_tags: [mergers-acquisitions, business-planning-strategy, brand-strategy, organic-growth, best-practices]
+  key_takeaway: "Sell at the 'point of peak romance' — when you're growing with clear upside — and use professional brokers because unprepared sellers leave potentially millions on the table."
+  related_skills: []
+- episode: 71
+  title: "Knowing When and How to Sell Your eCommerce Business"
+  guest: "Matt Edmundson"
+  company: "Aurion"
+  date: 2021-10-20
+  slingshot_areas: [Growth]
+  fuel_stages: [Elevate]
+  menu_tags: [mergers-acquisitions, business-planning-strategy, financial-planning, organic-growth, best-practices]
+  key_takeaway: "Build every business with eventual sale in mind — different buyer types value the same operation differently, and a competitor with existing infrastructure can offer multiples an individual buyer cannot."
+  related_skills: []
+- episode: 72
+  title: "The Ultimate Facebook Ad Strategy for Your eCommerce Business"
+  guest: "Meredith Kallaher"
+  company: "Meredith Kallaher"
+  date: 2021-11-03
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [social-media-ads, ad-performance-optimisation, retargeting, video-marketing, campaign-creative]
+  key_takeaway: "Post-iOS, build audiences on-platform where tracking still works — video view campaigns at 3-4p per view create warm audiences that convert at 8:1 ROAS when retargeted."
+  related_skills: []
+- episode: 73
+  title: "Inventory Management 101: How to Leverage the Power of Amazon"
+  guest: "Chelsea Cohen"
+  company: "So Stocked"
+  date: 2021-11-04
+  slingshot_areas: [Sell]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [inventory-management, amazon-marketplace, supply-chain-sourcing, warehouse-management, revenue-analytics]
+  key_takeaway: "One seller saved 82,000 pounds annually just by optimising carton sizes — 'death by paper cuts' from stockouts, over-ordering, and storage fees silently destroys margins."
+  related_skills: []
+- episode: 74
+  title: "An eCommerce Success Story"
+  guest: "Jared Mitchell"
+  company: "Beefy Sites"
+  date: 2022-01-27
+  slingshot_areas: [Marketing, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [email-campaigns, email-automation, financial-planning, organic-growth, attribution-analysis]
+  key_takeaway: "Healthy revenue splits show 40-50% from email; one consultant regularly finds million-pound email opportunities sitting untouched in businesses doing 3-4 million annually."
+  related_skills: []
+- episode: 75
+  title: "How to Create a Killer About Page That Converts"
+  guest: "Reese Spykerman"
+  company: "Design By Reese"
+  date: 2022-02-03
+  slingshot_areas: [Optimise, Story]
+  fuel_stages: [Foundation]
+  menu_tags: [product-page-optimisation, brand-content, brand-strategy, navigation-architecture, conversion-tracking]
+  key_takeaway: "Your About page is the second most visited page — lead with the customer's story first, not yours, and always include a call-to-action at the bottom for your most engaged visitors."
+  related_skills: [moby, brand-voice]
+- episode: 76
+  title: "Eight Steps to Funny Sales Videos That Sell"
+  guest: "Joseph Wilkins"
+  company: "Funny Sales Videos"
+  date: 2022-02-10
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [video-marketing, campaign-creative, social-content, ad-performance-optimisation, content-planning]
+  key_takeaway: "A single funny sales video generated 100 million views and tens of millions in sales — humour lowers guards and drives sharing that no technical whitepaper can match."
+  related_skills: [igap]
+- episode: 77
+  title: "How SEO Ranking Can Improve Your Customer Experience"
+  guest: "Nick Trueman"
+  company: "Spec Digital"
+  date: 2022-02-17
+  slingshot_areas: [Marketing, Optimise]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [product-page-seo, category-optimisation, technical-seo, navigation-architecture, content-marketing]
+  key_takeaway: "Treat keywords as customer questions, not boxes to tick — build collection pages that function as shop fronts answering real concerns, because Shopify store numbers doubled during COVID."
+  related_skills: [moby]
+- episode: 78
+  title: "Why You Should Be Using Micro Influencer Marketing And How To Do It Properly"
+  guest: "David Morneau"
+  company: "inBeat Agency"
+  date: 2022-02-24
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock]
+  menu_tags: [influencer-strategy, creator-partnerships, influencer-campaigns, social-content, user-generated-content]
+  key_takeaway: "Micro-influencers (10k-100k followers) deliver better ROI than celebrities — always request direct platform screenshots of audience demographics rather than trusting media kits."
+  related_skills: []
+- episode: 79
+  title: "Five Steps For Successful Amazon Branding"
+  guest: "Drew Morgans"
+  company: "Marknology"
+  date: 2022-03-03
+  slingshot_areas: [Story, Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [amazon-marketplace, marketplace-optimisation, brand-strategy, product-descriptions, brand-content]
+  key_takeaway: "Strategic Amazon branding maintains number-one positions at double competitors' prices — Brand Registry unlocks premium positioning that eliminates the need for price wars."
+  related_skills: [brand-voice]
+- episode: 80
+  title: "Maximising the Lifetime Value of a Customer"
+  guest: "Valentin Radu"
+  company: "Omniconvert"
+  date: 2022-03-10
+  slingshot_areas: [Growth, Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [customer-intelligence, customer-segmentation, customer-retention, email-automation, revenue-analytics]
+  key_takeaway: "One ideal customer equals ten poor ones — Hush Blankets discovered 80% of revenue came from sleep-deprived customers, not the 'cuddling effect' they had been marketing."
+  related_skills: []
+- episode: 81
+  title: "Why You Should Stop Using Facebook Ads and Start Google Advertising"
+  guest: "John Horn"
+  company: "Stub Group"
+  date: 2022-03-17
+  slingshot_areas: [Marketing]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [google-ads, ad-performance-optimisation, product-page-seo, attribution-analysis, conversion-tracking]
+  key_takeaway: "Google captures buying intent whilst Facebook builds awareness — post-iOS, Google's first-party data tracking remains robust, making it the more reliable conversion channel."
+  related_skills: []
+- episode: 82
+  title: "Technology Isn't The Issue — You Are!"
+  guest: "Ian Finch"
+  company: "Mando"
+  date: 2022-03-24
+  slingshot_areas: [Tech Stack]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [architecture-hosting, integrations-apis, headless-composable, platform-selection, best-practices]
+  key_takeaway: "Technology can deliver virtually anything — the real bottleneck is your organisation's capacity for change; implement incrementally rather than switching everything on at once."
+  related_skills: []
+- episode: 83
+  title: "Grow Your eCommerce Business by Stealing These 7 Secrets From the Military"
+  guest: "Stuart Leo"
+  company: "Waymaker.io"
+  date: 2022-03-31
+  slingshot_areas: [Story]
+  fuel_stages: [Foundation]
+  menu_tags: [business-planning-strategy, brand-strategy, organic-growth, expert-insights, best-practices]
+  key_takeaway: "Overlay seven strategic questions onto complex planning to create clarity — the art of leadership is learning to say no, because 64% of executives admit having too many priorities."
+  related_skills: []
+- episode: 84
+  title: "What Does eCommerce Marketing Look Like In 2022"
+  guest: "Kenny Gray"
+  company: "Grayt Media"
+  date: 2022-04-21
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [social-media-ads, email-campaigns, email-automation, social-content, ad-performance-optimisation]
+  key_takeaway: "'Make TikToks, don't make ads' — native content that blends into platform experiences outperforms polished ads, and five essential email types now drive reliable revenue when retargeting fails."
+  related_skills: [igap]
+- episode: 85
+  title: "The Case For Conversion Rate Optimisation: Experiment To Learn"
+  guest: "AJ Davis"
+  company: "Experiment Zone"
+  date: 2022-04-28
+  slingshot_areas: [Optimise]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [ab-testing, product-page-optimisation, user-behaviour, conversion-tracking, best-practices]
+  key_takeaway: "Even Airbnb and Google see winning A/B test results only 10-20% of the time — five-person usability studies surface 80% of problems faster and cheaper than testing alone."
+  related_skills: [moby, page-check]
+- episode: 86
+  title: "Why Giving Stuff Away Leads to More Sales with Influencer Seeding"
+  guest: "Cody Wittick"
+  company: "Kynship"
+  date: 2022-05-05
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock]
+  menu_tags: [influencer-strategy, creator-partnerships, user-generated-content, influencer-campaigns, social-content]
+  key_takeaway: "40% of influencers who receive free product with no strings attached post organically, generating 2-3 pieces of authentic content each — seeding builds communities, not transactions."
+  related_skills: []
+- episode: 87
+  title: "How To Capture Zero-Party Data to Effectively Personalise At Scale"
+  guest: "Gen Furukawa"
+  company: "Prehook"
+  date: 2022-05-12
+  slingshot_areas: [Optimise, Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [behavioural-personalisation, customer-segmentation, data-strategy, site-search-discovery, email-automation]
+  key_takeaway: "Only 3 in 10 brands execute personalisation effectively — quiz-based zero-party data collection lets customers tell you what they want instead of relying on behavioural assumptions."
+  related_skills: [moby]
+- episode: 88
+  title: "How To Leave Amazon and Set Up Your Own Website + Brand"
+  guest: "Lauren Gonzalez"
+  company: "Principium Studio"
+  date: 2022-05-19
+  slingshot_areas: [Story, Sell]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [brand-strategy, amazon-marketplace, visual-identity, brand-content, business-planning-strategy]
+  key_takeaway: "Amazon dependency is unsustainable — uncover your founding purpose, build brand personality like a friend to your customer, and use mood boards to translate values into a visual identity that stands independently."
+  related_skills: [brand-voice]
+- episode: 89
+  title: "How To Grow Your eCommerce Brand Using YouTube Videos"
+  guest: "Augie Johnston"
+  company: "VidChops"
+  date: 2022-05-26
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock]
+  menu_tags: [video-marketing, content-marketing, content-planning, product-page-seo, social-content]
+  key_takeaway: "YouTube is a discovery platform that actively promotes your content — target specific channels where your buyers already watch and aim for over 10% click-through rate on thumbnails."
+  related_skills: [igap]
+- episode: 90
+  title: "Why You Should Be Using AI In Your eCommerce Business"
+  guest: "Shanif Dhanani"
+  company: "Nobi"
+  date: 2022-06-02
+  slingshot_areas: [Tech Stack, Marketing]
+  fuel_stages: [Elevate, Leapfrog]
+  menu_tags: [ai-personalisation, ai-operations, predictive-analytics, customer-segmentation, email-automation]
+  key_takeaway: "Stores with just 1,000 historical orders can use AI predictive analytics to transform Facebook ROAS from negative to profitable and boost email open rates from 30% to 60%."
+  related_skills: []
+- episode: 91
+  title: "How To Find Your Remarkability For Competitive Advantage"
+  guest: "Rich Brooks"
+  company: "Flyte New Media"
+  date: 2022-06-09
+  slingshot_areas: [Story]
+  fuel_stages: [Foundation]
+  menu_tags: [brand-strategy, business-planning-strategy, organic-growth, brand-experience, expert-insights]
+  key_takeaway: "Use the Find-Focus-Fashion-Frame formula: discover what's already remarkable, narrow your audience, create something new aligned with values, or reframe what you already do from a fresh perspective."
+  related_skills: [brand-voice]
+- episode: 92
+  title: "LinkedIn Events: How To Get the Most Out Of It"
+  guest: "Patrick Collins"
+  company: "Prospect Labs"
+  date: 2022-06-11
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock]
+  menu_tags: [social-commerce-strategy, content-distribution, professional-community, social-content, organic-growth]
+  key_takeaway: "One LinkedIn Event generated 5,000 email addresses and doubled monthly revenue — build 2,000-3,000 connections first, then leverage network effects where attendees expose your event to their connections."
+  related_skills: []
+- episode: 93
+  title: "You Probably Don't Need A/B Testing"
+  guest: "Oliver Palmer"
+  company: "Oliver Palmer Consulting"
+  date: 2022-06-23
+  slingshot_areas: [Optimise]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [ab-testing, user-behaviour, product-page-optimisation, conversion-tracking, best-practices]
+  key_takeaway: "Talking to just five customers reveals more actionable insights than sophisticated A/B testing — user research uncovers the 'why' behind behaviour that testing alone never can."
+  related_skills: [moby, page-check]
+- episode: 94
+  title: "How To Level Up Your Search For The Ideal Influencers"
+  guest: "David Perry"
+  company: "Carro"
+  date: 2022-07-14
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [influencer-strategy, creator-partnerships, brand-partnerships, influencer-performance, social-commerce-strategy]
+  key_takeaway: "Find influencers who already buy your product — authentic partnerships where creators genuinely love the brand outperform scripted billboard-style sponsorships and the content stays live indefinitely."
+  related_skills: []
+- episode: 95
+  title: "Should You Sell On Multiple Online Marketplaces"
+  guest: "Jesse Wragg"
+  company: "eCommeleon GmbH"
+  date: 2022-07-21
+  slingshot_areas: [Sell, Growth]
+  fuel_stages: [Unlock]
+  menu_tags: [multi-marketplace, marketplace-optimisation, amazon-marketplace, organic-growth, inventory-management]
+  key_takeaway: "Five marketplace channels each generating 5,000 pounds monthly diversifies risk better than one Amazon channel at 100,000 — post-COVID retailers like Next and B&Q are launching marketplaces with first-mover advantages."
+  related_skills: []
+- episode: 96
+  title: "How To Use SMS Marketing for eCommerce"
+  guest: "Tadej Bogataj"
+  company: "CartBoss"
+  date: 2022-07-28
+  slingshot_areas: [Marketing]
+  fuel_stages: [Unlock]
+  menu_tags: [sms-messaging, omnichannel-messaging, checkout-cart-optimisation, email-automation, customer-retention]
+  key_takeaway: "SMS has 98% open rates within three minutes; a three-message abandoned cart sequence starting with a no-discount reminder recovers 300% more sales than email alone."
+  related_skills: []
+- episode: 97
+  title: "How To Make The Most Of Your EU Expansion Strategy"
+  guest: "Andy Hooper"
+  company: "Global E-Commerce Experts"
+  date: 2022-08-04
+  slingshot_areas: [Growth]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [market-research-entry, international-logistics, international-operations, global-payments-tax, tax-compliance]
+  key_takeaway: "Brands adding European markets see 30% additional revenue — use the Netherlands as your EU gateway and treat post-Brexit compliance as a solvable problem, not an insurmountable barrier."
+  related_skills: []
+- episode: 98
+  title: "How To Better Work With A Digital Marketing Agency"
+  guest: "Robert Giovannini"
+  company: "Ironplane"
+  date: 2022-08-11
+  slingshot_areas: [Tech Stack]
+  fuel_stages: [Unlock]
+  menu_tags: [vendor-directory, content-outsourcing, platform-selection, architecture-hosting, best-practices]
+  key_takeaway: "Three quarters of agency work is managing expectations — use a Stakeholder Matrix to identify every person who cares about the project and align their conflicting goals before development begins."
+  related_skills: []
+- episode: 99
+  title: "Everything You Need to Know to Take Over With Subscription eCommerce"
+  guest: "Evan Padgett"
+  company: "Stealth Venture Labs"
+  date: 2022-08-18
+  slingshot_areas: [Growth]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [subscription-commerce, customer-retention, loyalty-programmes, customer-intelligence, monetisation-strategies]
+  key_takeaway: "Subscribe-and-save is not subscription — successful recurring revenue requires building an experience customers value beyond the product, treating it as an ongoing relationship rather than a discount mechanism."
+  related_skills: []
+- episode: 100
+  title: "How To Choose A Winning Product Idea Every Time"
+  guest: "Tim Jordan"
+  company: "Private Label Legion"
+  date: 2022-08-25
+  slingshot_areas: [Sell]
+  fuel_stages: [Foundation]
+  menu_tags: [market-research, amazon-marketplace, product-information, trends-research, business-planning-strategy]
+  key_takeaway: "You sell keywords, not products — search for what people want but cannot find rather than copying best-sellers, because by the time a product is visibly successful the market is already saturated."
+  related_skills: []
+
+  - episode: 101
+    title: "Customer Experience Before, During and After the Sale"
+    guest: "Adam Pearce"
+    company: "Blend Commerce"
+    date: 2022-09-01
+    slingshot_areas: [Experience, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-page-optimisation, navigation-architecture, site-search-discovery, customer-retention, behavioural-personalisation]
+    key_takeaway: "Replace discount pop-ups with quizzes to capture rich zero-party data that personalises marketing from the first interaction."
+    related_skills: [moby, page-check]
+  - episode: 102
+    title: "How To Take Product Into Direct Marketing"
+    guest: "Cody Bramlett"
+    company: "Science Natural Supplements"
+    date: 2022-09-08
+    slingshot_areas: [Marketing, Optimise]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [product-page-optimisation, upsell-cross-sell, content-marketing, ad-performance-optimisation, checkout-cart-optimisation]
+    key_takeaway: "Long-form sales pages that build know-like-trust in a single sitting convert at 5-7%, four times higher than typical eCommerce pages."
+    related_skills: [moby]
+  - episode: 103
+    title: "The Secrets to Retaining Customers With Email Marketing"
+    guest: "Daniel Budai"
+    company: "Budai Media"
+    date: 2022-09-15
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [email-automation, customer-retention, customer-intelligence, customer-segmentation, win-back-reengagement]
+    key_takeaway: "Automated email flows consistently generate higher revenue per recipient than broadcast campaigns because they trigger on specific customer behaviours."
+    related_skills: []
+  - episode: 104
+    title: "How To Successfully Grow Your eCommerce Empire Through Acquisition"
+    guest: "Stephen Speer"
+    company: "eCommerce Lending"
+    date: 2022-09-22
+    slingshot_areas: [Growth]
+    fuel_stages: [Elevate]
+    menu_tags: [mergers-acquisitions, funding-investment, financial-planning, business-planning-strategy, organic-growth]
+    key_takeaway: "Smaller eCommerce businesses frequently acquire larger competitors using leverage, with 20% down payment enabling control of assets worth many times the initial investment."
+    related_skills: []
+  - episode: 105
+    title: "How A Successful Entrepreneur Learned What It Took To Succeed"
+    guest: "Omar Zenhom"
+    company: "WebinarNinja"
+    date: 2022-09-29
+    slingshot_areas: [Sell, Story]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, content-marketing, brand-strategy, expert-insights, best-practices]
+    key_takeaway: "Pre-sell before building: if customers pay for a promise before the product exists, you have validated genuine demand without wasting months on development."
+    related_skills: []
+  - episode: 106
+    title: "How AI Is Changing Shopping: Product Recommendations"
+    guest: "Oliver Edholm"
+    company: "Depict.ai"
+    date: 2022-10-06
+    slingshot_areas: [Optimise, Tech Stack]
+    fuel_stages: [Elevate, Leapfrog]
+    menu_tags: [ai-recommendations, ai-personalisation, site-search-discovery, product-page-optimisation, upsell-cross-sell]
+    key_takeaway: "AI product recommendations that combine image recognition and text analysis solve the cold start problem without requiring Amazon-scale user behaviour data."
+    related_skills: [moby]
+  - episode: 107
+    title: "It's Time You Knew the Environmental Impact of Your Product"
+    guest: "Austin Simms"
+    company: "Day Rize"
+    date: 2022-10-13
+    slingshot_areas: [Sell, Story]
+    fuel_stages: [Unlock]
+    menu_tags: [sustainable-practices, brand-strategy, trust-signals, ethical-sourcing, trends-research]
+    key_takeaway: "Day Rize reduces product sustainability measurement from three months and £50,000 to minutes and £25, making verified environmental transparency accessible to any business."
+    related_skills: []
+  - episode: 108
+    title: "How To Build a Fulfilment Infrastructure That Will Scale With Your Business"
+    guest: "Harry Drajpuch"
+    company: "Amware Fulfillment"
+    date: 2022-10-20
+    slingshot_areas: [Experience]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [warehouse-management, shipping-strategy, order-processing, post-purchase-support, brand-experience]
+    key_takeaway: "At 99% warehouse accuracy with 5,000 daily orders, you still ship 50 wrong orders daily — invest in the unboxing experience to differentiate from Amazon's bland brown boxes."
+    related_skills: []
+  - episode: 109
+    title: "Your Questions About Black Friday Answered"
+    guest: "Chloe Thomas"
+    company: "eCommerce Masterplan"
+    date: 2022-10-23
+    slingshot_areas: [Marketing, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [black-friday-cyber-monday, discount-strategies, email-campaigns, year-round-planning, special-offers]
+    key_takeaway: "Landing pages protect margins better than discount codes during Black Friday because customers who forget to apply codes still purchase at full price."
+    related_skills: []
+  - episode: 110
+    title: "How To Scale Your Business With The Right Talent"
+    guest: "Yoni Kozminski"
+    company: "MultiplyMii"
+    date: 2022-10-27
+    slingshot_areas: [Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [business-planning-strategy, organic-growth, content-outsourcing, workflow-automation, best-practices]
+    key_takeaway: "Delegate accountability not tasks — give team members ownership of outcomes rather than checklists to break through the founder-dependent revenue ceiling."
+    related_skills: []
+  - episode: 111
+    title: "How To Join The Creator Economy"
+    guest: "Tomer Hen"
+    company: "Mobco Media"
+    date: 2022-11-03
+    slingshot_areas: [Story, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-content, content-planning, social-content, creator-economy, brand-strategy]
+    key_takeaway: "Build your own brand instead of relying on partnerships — authenticity and consistency beat viral tactics for turning content creators into successful brand owners."
+    related_skills: [brand-voice, igap]
+  - episode: 112
+    title: "How to Decide if Amazon is Right for Your Small Business"
+    guest: "Adam Shaffer"
+    company: "Phelps United"
+    date: 2022-11-10
+    slingshot_areas: [Sell, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [amazon-marketplace, multi-marketplace, marketplace-optimisation, business-planning-strategy, brand-strategy]
+    key_takeaway: "Amazon can be your best friend or worst nightmare — assess product characteristics, resource requirements, and brand protection needs before committing to the platform."
+    related_skills: []
+  - episode: 113
+    title: "Can You Massively Increase Perceived Value or Is It Just American Hype?"
+    guest: "Norm Farrar"
+    company: "Lunch With Norm"
+    date: 2022-11-17
+    slingshot_areas: [Sell, Experience]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [brand-experience, visual-identity, product-photography, pricing-strategies, amazon-marketplace]
+    key_takeaway: "Repackaging a £16 knife into a premium unboxing experience drove its price to £224 — perceived value is profitable psychology, not hype."
+    related_skills: [moby]
+  - episode: 114
+    title: "How To Bring The Magic Of Disney To Your Customer Service"
+    guest: "Vance Morris"
+    company: "Deliver Service Now Institute"
+    date: 2022-12-01
+    slingshot_areas: [Experience]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [support-channels, brand-experience, customer-retention, post-purchase-support, best-practices]
+    key_takeaway: "Disney transforms mundane customer interactions into memorable experiences through anticipatory service — predicting customer needs before they ask."
+    related_skills: []
+  - episode: 115
+    title: "Grow Your Business With Growth Driven Advertising On Amazon"
+    guest: "Ryan Flannagan"
+    company: "Nuanced Media"
+    date: 2022-12-08
+    slingshot_areas: [Marketing]
+    fuel_stages: [Elevate]
+    menu_tags: [amazon-marketplace, ad-performance-optimisation, marketplace-optimisation, revenue-analytics, campaign-performance]
+    key_takeaway: "On Amazon, 2% of products generate 98% of revenue — focus advertising resources on hero products instead of spreading spend across your entire catalogue."
+    related_skills: []
+  - episode: 116
+    title: "Why eCommerce is Challenging And How to Make It Work For You"
+    guest: "Eric Youngstrom"
+    company: "Onramp Funds"
+    date: 2022-12-08
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [financial-planning, funding-investment, revenue-analytics, business-planning-strategy, inventory-management]
+    key_takeaway: "The 60-120 day cash conversion cycle traps profit in perpetual inventory turnover — systematic capital allocation prevents rapid growth from destroying your business."
+    related_skills: []
+  - episode: 117
+    title: "The Amazing Benefits of Augmented Reality Marketing for Ecommerce"
+    guest: "Rich Watson"
+    company: "Augmented Hype"
+    date: 2023-01-05
+    slingshot_areas: [Marketing, Optimise]
+    fuel_stages: [Leapfrog]
+    menu_tags: [ar-vr-commerce, ar-3d-content, social-media-ads, ad-performance-optimisation, video-marketing]
+    key_takeaway: "AR experiences achieve 60+ second engagement rates and 59% lower ad costs compared to traditional 6-30 second video interactions."
+    related_skills: [moby]
+  - episode: 118
+    title: "How To Increase Your Customer Retention: The Ultimate Guide"
+    guest: "Brandon Amoroso"
+    company: "Electriq"
+    date: 2023-01-12
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [email-automation, customer-retention, customer-segmentation, sms-messaging, omnichannel-messaging]
+    key_takeaway: "Document every email flow before optimising — entering Klaviyo accounts with 100 flows built by five agencies where nobody knows what customers receive is the norm."
+    related_skills: []
+  - episode: 119
+    title: "How To Develop A Creative Strategy For Your Brand's Advertising"
+    guest: "Colby Flood"
+    company: "Brighter Click"
+    date: 2023-01-19
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [social-media-ads, campaign-creative, ad-performance-optimisation, campaign-performance, user-generated-content]
+    key_takeaway: "Platforms are automating media buying, making creative strategy the last competitive advantage — allocate 10% of ad budget specifically to creative testing."
+    related_skills: [igap]
+  - episode: 120
+    title: "How AI and Consumer Behavior Can Reduce Shopping Cart Abandonment"
+    guest: "Valon Xhafa"
+    company: "Behamics"
+    date: 2023-01-26
+    slingshot_areas: [Optimise, Tech Stack]
+    fuel_stages: [Elevate, Leapfrog]
+    menu_tags: [checkout-cart-optimisation, ai-personalisation, behavioural-personalisation, user-behaviour, conversion-tracking]
+    key_takeaway: "AI analysing 250 behavioural data points predicts cart abandonment with 95% accuracy before it happens, shifting from recovery to prevention."
+    related_skills: [moby]
+  - episode: 121
+    title: "Why SEO Is Not Just About Search Engines But Better Websites"
+    guest: "Kevin Wiles"
+    company: "Kevin Wiles"
+    date: 2023-02-02
+    slingshot_areas: [Marketing, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [technical-seo, product-page-seo, category-optimisation, content-marketing, site-performance]
+    key_takeaway: "Modern SEO success comes from building better websites for customers, not gaming algorithms — comprehensive product pages that answer every question outperform keyword tricks."
+    related_skills: [moby, page-check]
+  - episode: 122
+    title: "How To Create A Frothing At The Mouth Email List With Plain-Text Emails"
+    guest: "Christian Simovic"
+    company: "Honey Badger Marketing"
+    date: 2023-02-09
+    slingshot_areas: [Marketing, Story]
+    fuel_stages: [Unlock]
+    menu_tags: [email-campaigns, email-content, brand-content, content-marketing, customer-retention]
+    key_takeaway: "Plain text emails outperform HTML designs because they bypass the promotions tab and feel like genuine communication rather than screaming 'advertisement'."
+    related_skills: [brand-voice]
+  - episode: 123
+    title: "Exploring The Possibilities of Generative AI"
+    guest: "Max Sinclair"
+    company: "Ecomtent"
+    date: 2023-02-16
+    slingshot_areas: [Tech Stack, Marketing]
+    fuel_stages: [Leapfrog]
+    menu_tags: [ai-content-tools, product-photography, product-descriptions, ai-operations, content-workflows]
+    key_takeaway: "Generative AI creates entirely new product content — images, descriptions, and variations — that could make traditional product photography and manual content creation obsolete."
+    related_skills: []
+  - episode: 124
+    title: "How To Grow Your Business Using Email Marketing Strategies"
+    guest: "Tom Kulzer"
+    company: "AWeber"
+    date: 2023-02-23
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [email-automation, email-campaigns, email-content, customer-retention, best-practices]
+    key_takeaway: "Email delivers £34 return per £1 invested, but using a no-reply address is 'the middle finger email' — treat email as two-way communication to improve deliverability."
+    related_skills: []
+  - episode: 125
+    title: "How the Merger and Acquisition Landscape Is Changing And What It Means For Your eCommerce Business"
+    guest: "Ben Leonard"
+    company: "Beast Gear"
+    date: 2023-03-02
+    slingshot_areas: [Growth]
+    fuel_stages: [Elevate]
+    menu_tags: [mergers-acquisitions, brand-strategy, business-planning-strategy, revenue-analytics, organic-growth]
+    key_takeaway: "M&A multiples dropped from 5-7X to 3-4X as aggregators learned running eCommerce is harder than buying it — genuine brand building now determines sellable value."
+    related_skills: []
+  - episode: 126
+    title: "What's Working Right Now With Google and YouTube Ads"
+    guest: "Brett Curry"
+    company: "OMG Commerce"
+    date: 2023-03-09
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [google-ads, video-marketing, ad-performance-optimisation, attribution-analysis, campaign-performance]
+    key_takeaway: "Brands spending £30,000+ monthly on YouTube see 30-40% lifts across all other campaigns — YouTube is a multiplier, not a standalone channel."
+    related_skills: [igap]
+  - episode: 127
+    title: "Boost Your Ecommerce Revenue: Strategies to Increase Your Average Order Value"
+    guest: "Greg Writer"
+    company: "Launch Cart"
+    date: 2023-03-16
+    slingshot_areas: [Growth, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [upsell-cross-sell, checkout-cart-optimisation, special-offers, product-page-optimisation, pricing-strategies]
+    key_takeaway: "Checkout page order bumps convert at 75% compared to 22% for product page alternatives — the checkout page is the most important page on your website."
+    related_skills: [moby]
+  - episode: 128
+    title: "What Is Amazon Doing And What Do Amazon Sellers Need To Know"
+    guest: "Jon Tilley"
+    company: "ZonGuru"
+    date: 2023-03-23
+    slingshot_areas: [Marketing, Sell]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [amazon-marketplace, marketplace-optimisation, ad-performance-optimisation, trends-research, multi-marketplace]
+    key_takeaway: "Amazon has shifted from an organic marketplace to pay-to-play advertising ecosystem — sponsored ads are now their second biggest revenue channel."
+    related_skills: []
+  - episode: 129
+    title: "How Personalization Can Turn Your Ordinary Website Into an Irresistible Sales Platform"
+    guest: "Eric Melchor"
+    company: "OptiMonk"
+    date: 2023-03-29
+    slingshot_areas: [Optimise, Experience]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [behavioural-personalisation, dynamic-content, product-page-optimisation, conversion-tracking, customer-segmentation]
+    key_takeaway: "Micro engagements — small, helpful website interactions that build trust gradually — can triple conversion rates without requiring technical expertise or customer purchase history."
+    related_skills: [moby]
+  - episode: 130
+    title: "How Subscriptions Improve Customer Experience"
+    guest: "Chris George"
+    company: "Subsummit"
+    date: 2023-04-06
+    slingshot_areas: [Growth, Experience]
+    fuel_stages: [Unlock]
+    menu_tags: [subscription-commerce, customer-retention, brand-experience, customer-communities, monetisation-strategies]
+    key_takeaway: "Modern consumers prefer 'usership over ownership' — subscription models compete with Amazon by building relationships rather than competing on price."
+    related_skills: []
+  - episode: 131
+    title: "How To Maximize The Efficiency Of Facebook Ads For Your Business"
+    guest: "Marin Istvanic"
+    company: "Inspire Agency"
+    date: 2023-04-13
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [social-media-ads, ad-performance-optimisation, campaign-creative, user-generated-content, attribution-analysis]
+    key_takeaway: "In post-iOS 14.5 Facebook advertising, creative content now handles targeting — let your creative do the work instead of relying on audience segmentation."
+    related_skills: [igap]
+  - episode: 132
+    title: "How To Use Content To Connect With Your Community"
+    guest: "John Roman"
+    company: "BattlBox Group"
+    date: 2023-04-20
+    slingshot_areas: [Marketing, Story]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [content-marketing, video-marketing, social-content, customer-communities, subscription-commerce]
+    key_takeaway: "Only one in twenty videos should sell directly — BattlBox grew from 55,000 to 570,000 YouTube subscribers by treating TikTok as a search engine and building community through education."
+    related_skills: [igap, brand-voice]
+  - episode: 133
+    title: "How To Source Products Worldwide And Save Millions"
+    guest: "Sebastian Herz"
+    company: "Zignify"
+    date: 2023-04-27
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [supply-chain-sourcing, ethical-sourcing, pricing-strategies, market-research-entry, international-operations]
+    key_takeaway: "The real money in eCommerce is made in purchasing, not selling — global sourcing strategies that escape the China-only trap build premium brands with better margins."
+    related_skills: []
+  - episode: 134
+    title: "Discovering The Human Element Behind The Numbers"
+    guest: "Monica Sharma-Patnekar"
+    company: "Business with Monica"
+    date: 2023-05-04
+    slingshot_areas: [Story, Experience]
+    fuel_stages: [Foundation]
+    menu_tags: [customer-intelligence, market-research, customer-retention, brand-strategy, best-practices]
+    key_takeaway: "Systematic customer interviews reveal the desires and stories behind purchasing decisions — treating insights as strategic intelligence rather than customer service transforms loyalty."
+    related_skills: [brand-voice]
+  - episode: 135
+    title: "Subscriptions That Stand Out: The Nuances That Separate Great Experiences from Mediocre Ones"
+    guest: "Ben Fisher"
+    company: "Rodeo"
+    date: 2023-05-11
+    slingshot_areas: [Experience, Growth]
+    fuel_stages: [Elevate]
+    menu_tags: [subscription-commerce, customer-retention, behavioural-personalisation, checkout-cart-optimisation, post-purchase-support]
+    key_takeaway: "The number one reason customers cancel subscriptions is receiving too much product — on-demand replenishment serving the 80% who reject traditional subscriptions unlocks massive revenue."
+    related_skills: []
+  - episode: 136
+    title: "Behind The Brand With Mason"
+    guest: "Kaus Manjita"
+    company: "GetMason"
+    date: 2023-05-18
+    slingshot_areas: [Optimise, Tech Stack]
+    fuel_stages: [Elevate, Leapfrog]
+    menu_tags: [ai-personalisation, ai-recommendations, site-search-discovery, behavioural-personalisation, dynamic-content]
+    key_takeaway: "Mason democratises marketplace-level AI personalisation for solo-preneurs through no-code solutions, transforming generic browsing into consumer-centric discovery."
+    related_skills: [moby]
+  - episode: 137
+    title: "The Art and Science of Acquiring Shopify Businesses"
+    guest: "Fabio Savi"
+    company: "Everstores"
+    date: 2023-05-25
+    slingshot_areas: [Growth]
+    fuel_stages: [Elevate]
+    menu_tags: [mergers-acquisitions, customer-intelligence, predictive-analytics, revenue-analytics, business-planning-strategy]
+    key_takeaway: "Everstores completes Shopify acquisitions in weeks by using predictive customer behaviour models that reveal seven-month return patterns invisible to traditional valuation multiples."
+    related_skills: []
+  - episode: 138
+    title: "Winning the eCommerce Game with AI"
+    guest: "Alan Gormley"
+    company: "Shopbox AI"
+    date: 2023-06-01
+    slingshot_areas: [Optimise, Tech Stack]
+    fuel_stages: [Elevate, Leapfrog]
+    menu_tags: [ai-personalisation, ai-recommendations, product-page-optimisation, dynamic-content, site-search-discovery]
+    key_takeaway: "Most 'people who like this also like this' AI drives customers to bestsellers and kills long-tail inventory — proper retail AI creates a unique store for each visitor."
+    related_skills: [moby]
+  - episode: 139
+    title: "How To Navigate The Complexities of Generative Content and Copyright"
+    guest: "Matt Ranta"
+    company: "Nimble Gravity"
+    date: 2023-06-08
+    slingshot_areas: [Tech Stack]
+    fuel_stages: [Leapfrog]
+    menu_tags: [ai-content-tools, legal-compliance-setup, privacy-regulations, consumer-protection, content-workflows]
+    key_takeaway: "45% of professionals claim AI outputs as their own work, creating legal vulnerabilities — read AI platform terms carefully as copyright ownership varies dramatically between tools."
+    related_skills: []
+  - episode: 140
+    title: "Shopify Success: Boosting Your Bottom Line with Page Speed Optimisation"
+    guest: "William Belk"
+    company: "Page Doctor"
+    date: 2023-06-15
+    slingshot_areas: [Tech Stack, Optimise]
+    fuel_stages: [Foundation]
+    menu_tags: [site-performance, performance-reliability, technical-seo, mobile-responsive-design, integrations-apis]
+    key_takeaway: "Shopify is not slow — you are only as fast as your slowest app, and redundant apps with blocking JavaScript silently destroy ad ROI through poor page quality scores."
+    related_skills: [moby, page-check]
+  - episode: 141
+    title: "Mastering Same-Day Delivery: Insights and Advice for eCommerce Businesses"
+    guest: "Steve Orenstein"
+    company: "Connect2Field"
+    date: 2023-06-22
+    slingshot_areas: [Experience]
+    fuel_stages: [Unlock]
+    menu_tags: [shipping-strategy, post-purchase-support, order-processing, brand-experience, customer-retention]
+    key_takeaway: "Same-day delivery becomes profitable with just 20 orders per day within a 5-kilometre radius using existing driver networks and smart batching strategies."
+    related_skills: []
+  - episode: 142
+    title: "Why Is Branding So Important For Your eCommerce Business?"
+    guest: "Staeven Frey"
+    company: "Quantum Branding"
+    date: 2023-06-29
+    slingshot_areas: [Story]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-strategy, visual-identity, brand-experience, brand-content, best-practices]
+    key_takeaway: "Successful brands have 30-50 distinctive brand assets while the typical eCommerce business has only five — the brand with the most sensory memories wins."
+    related_skills: [brand-voice]
+  - episode: 143
+    title: "Breaking Down the Million-Dollar Playbook: A Deep Dive into Entrepreneurial Growth"
+    guest: "Leonardo Caracas"
+    company: "Jump Ventures"
+    date: 2023-07-06
+    slingshot_areas: [Growth, Marketing]
+    fuel_stages: [Elevate]
+    menu_tags: [organic-growth, revenue-analytics, campaign-performance, pricing-strategies, content-marketing]
+    key_takeaway: "Focus ruthlessly on the few tests that matter — scaling from six to eight figures in 12 months comes from four KPIs and a product launch calendar, not endless optimisation."
+    related_skills: []
+  - episode: 144
+    title: "The Five Levers of Growth: Harnessing Customer Data for eCommerce Success"
+    guest: "Oliver Spark"
+    company: "Sweet Analytics"
+    date: 2023-07-13
+    slingshot_areas: [Growth, Marketing]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [customer-intelligence, revenue-analytics, reporting-dashboards, customer-segmentation, organic-growth]
+    key_takeaway: "80% of eCommerce founders cannot answer how many new customers they need to hit their revenue target — reverse-engineer growth targets into specific acquisition numbers."
+    related_skills: []
+  - episode: 145
+    title: "How Effective Email Flows and List Building Strategies Can Boost Your Revenue"
+    guest: "Laura Hanlon"
+    company: "Pink Leopard"
+    date: 2023-07-20
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [email-automation, email-campaigns, social-media-ads, customer-retention, attribution-analysis]
+    key_takeaway: "Email marketing can contribute 30-40% of revenue when done properly, yet most businesses generate only 1-2% from sloppy flows — Facebook lead generation costs as little as 20p per lead."
+    related_skills: []
+  - episode: 146
+    title: "Mastering Regulations for eCommerce Success"
+    guest: "Paul Rafelson"
+    company: "Ecom Attorneys"
+    date: 2023-07-27
+    slingshot_areas: [Growth]
+    fuel_stages: [Unlock]
+    menu_tags: [legal-compliance-setup, consumer-protection, tax-compliance, amazon-marketplace, mergers-acquisitions]
+    key_takeaway: "Proper legal preparation and regulatory understanding create competitive advantages — Paul Rafelson has facilitated over £500 million in exits by leveraging government pressure strategically."
+    related_skills: []
+  - episode: 147
+    title: "The Disney Principle for Transforming Customer Experience"
+    guest: "Sadaf Beynon"
+    company: "Aurion Company"
+    date: 2023-08-02
+    slingshot_areas: [Experience]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-experience, customer-retention, post-purchase-support, support-channels, best-practices]
+    key_takeaway: "Disney's 'line attainment' principle transforms unavoidable waiting periods into positive experiences — manage customer perception of friction rather than eliminating the friction itself."
+    related_skills: []
+  - episode: 148
+    title: "Cracking the eCommerce Code: Metrics Matter"
+    guest: "Sadaf Beynon"
+    company: "Aurion Company"
+    date: 2023-08-10
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [revenue-analytics, reporting-dashboards, customer-intelligence, business-planning-strategy, best-practices]
+    key_takeaway: "Reverse-engineer growth targets into three metrics — new customer acquisition count, average order value, and customer order frequency — to transform vague ambitions into actionable plans."
+    related_skills: []
+  - episode: 149
+    title: "Persona Perfect: Mastering Marketing Personas in eCommerce"
+    guest: "Neil Hoyne"
+    company: "Google"
+    date: 2023-08-16
+    slingshot_areas: [Marketing, Story]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [attribution-analysis, customer-intelligence, campaign-performance, market-research, expert-insights]
+    key_takeaway: "One customer had 260 interactions before buying shoes — perfect attribution is impossible, so focus on marketing team behaviour patterns and relationship building instead."
+    related_skills: []
+  - episode: 150
+    title: "Email Marketing in eCommerce"
+    guest: "Daniel Budai"
+    company: "Budai Media"
+    date: 2023-08-24
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [email-campaigns, email-automation, email-content, sms-messaging, customer-retention]
+    key_takeaway: "Feature best-selling products in email campaigns, not slow-moving inventory — using email as a clearance channel destroys deliverability and trains customers to expect discounts."
+    related_skills: []
+
+  - episode: 151
+    title: "Redefining the eCommerce Landscape with AI"
+    guest: "Max Sinclair"
+    company: "Azoma"
+    date: 2023-08-31
+    slingshot_areas: [Sell, Marketing]
+    fuel_stages: [Leapfrog]
+    menu_tags: [ai-content-tools, content-marketing, product-photography, market-research, ai-operations]
+    key_takeaway: "AI can analyse 30,000 customer reviews in minutes and generate professional lifestyle product imagery instantly, compressing weeks of research into hours."
+    related_skills: []
+  - episode: 152
+    title: "How to Create Ad Content That Actually Works"
+    guest: "Amelia Coomber"
+    company: "PetPlate"
+    date: 2023-09-07
+    slingshot_areas: [Marketing]
+    fuel_stages: [Elevate]
+    menu_tags: [campaign-creative, video-marketing, social-media-ads, user-generated-content, ad-performance-optimisation]
+    key_takeaway: "A modular ad creative system that collects raw story components instead of finished scripts can turn one recording session into 50+ unique ad variations."
+    related_skills: [igap]
+  - episode: 153
+    title: "Maximizing Ecommerce Sales Through Strategic Website Design"
+    guest: "Diana Simpson"
+    company: "Simpsons Web Design"
+    date: 2023-09-14
+    slingshot_areas: [Optimise, Story]
+    fuel_stages: [Foundation]
+    menu_tags: [product-page-optimisation, navigation-architecture, brand-strategy, email-automation, mobile-responsive-design]
+    key_takeaway: "Your homepage hero section must answer three questions in five seconds: what you sell, how it benefits the visitor, and how to get started."
+    related_skills: [moby, page-check]
+  - episode: 154
+    title: "The Road to Ecommerce Independence: Mindset and Strategies"
+    guest: "Nahar Geva"
+    company: "ZIK Analytics"
+    date: 2023-09-21
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [market-research, marketplace-optimisation, amazon-marketplace, business-planning-strategy, multi-marketplace]
+    key_takeaway: "Study new competitors who achieved rapid ranking in the last 4-5 months rather than established players to discover current algorithmic opportunities."
+    related_skills: []
+  - episode: 155
+    title: "Influencers as Storefronts: The New Era of Personalised E-Commerce"
+    guest: "Vinod Varma"
+    company: "Creator.co"
+    date: 2023-09-28
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [influencer-strategy, creator-partnerships, influencer-campaigns, influencer-performance, referral-programmes]
+    key_takeaway: "A creator with just 3,500 followers outperformed mega-influencers for a billion-dollar beauty brand because engagement trumps reach every time."
+    related_skills: []
+  - episode: 156
+    title: "Email Marketing Strategies for Black Friday, AI Innovations, and the Future of E-Commerce"
+    guest: "Damon Didier"
+    company: "Win at Ecommerce"
+    date: 2023-10-05
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [email-automation, email-campaigns, sms-messaging, black-friday-cyber-monday, customer-segmentation]
+    key_takeaway: "Remove specific discount percentages from email signup popups and force email engagement for the code to boost deliverability and long-term list quality."
+    related_skills: []
+  - episode: 157
+    title: "Winning Over Gen Z: The Insider's Guide to Dominating TikTok and Snapchat"
+    guest: "Claire Daniels"
+    company: "Trio Media"
+    date: 2023-10-12
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock]
+    menu_tags: [social-content, social-commerce-strategy, social-media-ads, user-generated-content, video-marketing]
+    key_takeaway: "TikTok ads filmed on smartphones with natural lighting outperform studio-quality content because Gen Z responds to authenticity over polish."
+    related_skills: [igap]
+  - episode: 158
+    title: "Five Steps to a Successful Product Launch"
+    guest: "Dylan Lam"
+    company: "Omirank"
+    date: 2023-10-19
+    slingshot_areas: [Sell, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [market-research, amazon-marketplace, business-planning-strategy, social-media-ads, organic-growth]
+    key_takeaway: "Validate products on Kickstarter before committing to Amazon to reduce platform dependency and build audience-funded inventory with 40%+ target margins."
+    related_skills: []
+  - episode: 159
+    title: "Mastering Marketing Spend: A Financial Perspective"
+    guest: "Matt Putra"
+    company: "EightX"
+    date: 2023-10-26
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [attribution-analysis, revenue-analytics, ad-performance-optimisation, reporting-dashboards, campaign-performance]
+    key_takeaway: "Use blended ROAS with a traffic light system: green means spend more, yellow means monitor closely, red means cut spend immediately."
+    related_skills: []
+  - episode: 160
+    title: "How to Plan 12 Months of Online Marketing in 45 Minutes"
+    guest: "Fiona Allman-Treen"
+    company: "FAT Promotions Ltd"
+    date: 2023-11-02
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [content-planning, content-marketing, video-marketing, content-distribution, year-round-planning]
+    key_takeaway: "Record a two-minute video on one customer problem to generate five pieces of content: video, social post, blog article, LinkedIn piece, and newsletter."
+    related_skills: [igap]
+  - episode: 161
+    title: "Unpacking the Volatility of Data Targeting in Social Media and AdTech"
+    guest: "Jason Wood"
+    company: "Specificity"
+    date: 2023-11-09
+    slingshot_areas: [Marketing]
+    fuel_stages: [Elevate, Leapfrog]
+    menu_tags: [social-media-ads, ad-performance-optimisation, customer-segmentation, data-strategy, privacy-compliance]
+    key_takeaway: "Build high-conversion audiences using contextual data layering and device IDs outside platform ecosystems instead of relying on diluted platform targeting."
+    related_skills: []
+  - episode: 162
+    title: "Scaling E-commerce: Beyond the Magic Wands and Quick Fixes"
+    guest: "Ian Hammersley"
+    company: "Smarte Business"
+    date: 2023-11-16
+    slingshot_areas: [Growth, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [business-planning-strategy, conversion-tracking, organic-growth, reporting-dashboards, best-practices]
+    key_takeaway: "Adopt an 'everything's in beta' mindset because six months of perfectionism in ecommerce equals years of lost competitive advantage."
+    related_skills: []
+  - episode: 163
+    title: "Tips From the Playbook of a PPC Expert"
+    guest: "Phil Byrne"
+    company: "Positive Sparks"
+    date: 2023-11-23
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [google-ads, ad-performance-optimisation, campaign-performance, product-page-seo, best-practices]
+    key_takeaway: "Apply the 80/20 rule to PPC: focus ad spend on your top-performing 20% of products rather than promoting your entire catalogue equally."
+    related_skills: []
+  - episode: 164
+    title: "Mastering Multi-Channel Marketing in the Family and Women's Wear Sectors"
+    guest: "Anna Frapwell"
+    company: "Neon Digital Clicks"
+    date: 2023-11-30
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [social-media-ads, email-campaigns, omnichannel-messaging, campaign-creative, brand-content]
+    key_takeaway: "Do three marketing channels exceptionally well rather than spreading resources across ten, because distracted parent customers need 236+ touchpoints before purchasing."
+    related_skills: []
+  - episode: 165
+    title: "How To Win Big: Building Relationships & Mastering Data"
+    guest: "Neil Hoyne"
+    company: "Google"
+    date: 2023-12-07
+    slingshot_areas: [Growth, Experience]
+    fuel_stages: [Elevate]
+    menu_tags: [customer-intelligence, customer-retention, attribution-analysis, content-marketing, expert-insights]
+    key_takeaway: "Small ecommerce brands can beat Amazon by educating customers like bodybuilding.com did with 80 writers, because relationship building trumps operational efficiency."
+    related_skills: []
+  - episode: 166
+    title: "What Do Multi Million Dollar Brands Have In Common"
+    guest: "Nirav Sheth"
+    company: "Anatta"
+    date: 2023-12-14
+    slingshot_areas: [Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [organic-growth, business-planning-strategy, platform-selection, customer-retention, best-practices]
+    key_takeaway: "Multi-million-dollar brands focus on mastering 1-2 channels rather than diversifying early, because what got you to startup won't get you past the £10M ceiling."
+    related_skills: []
+  - episode: 167
+    title: "Don't Stick Out, Stand Out: The Art of Being Distinctive in eCommerce"
+    guest: "Staeven Frey"
+    company: "Quantum Branding"
+    date: 2023-12-21
+    slingshot_areas: [Story]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [brand-strategy, visual-identity, brand-experience, brand-content, expert-insights]
+    key_takeaway: "95% of brand decisions happen unconsciously through System 1 thinking, so build distinctive sensory brand assets rather than rational USP arguments."
+    related_skills: [brand-voice]
+  - episode: 168
+    title: "Drive Insane New Customer Acquisition with Your Hero Product"
+    guest: "Taylor Frame"
+    company: "Focus Funnels"
+    date: 2024-01-11
+    slingshot_areas: [Sell, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-page-optimisation, social-media-ads, ad-performance-optimisation, organic-growth, conversion-tracking]
+    key_takeaway: "Identify your hero product through sales data analysis, then build a long-scroll landing page that answers all customer questions before they're asked."
+    related_skills: [moby, page-check]
+  - episode: 169
+    title: "Decoding the Customer Journey Through Research"
+    guest: "Peter Murphy Lewis"
+    company: "Strategic Pete"
+    date: 2024-01-18
+    slingshot_areas: [Experience, Growth]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [customer-intelligence, user-behaviour, customer-retention, reviews-ratings, expert-insights]
+    key_takeaway: "Strategic customer interviews revealed pricing could increase from £49 to £299 and improved retention from 3.5 to 15 months by asking the right questions."
+    related_skills: []
+  - episode: 170
+    title: "Unlocking Marketplace Success and Overcoming Modern Monopolies"
+    guest: "Shirish Nadkarni"
+    company: "Shirish Nadkarni"
+    date: 2024-01-25
+    slingshot_areas: [Growth, Sell]
+    fuel_stages: [Unlock]
+    menu_tags: [amazon-marketplace, multi-marketplace, marketplace-optimisation, business-planning-strategy, expert-insights]
+    key_takeaway: "Amazon takes 50% of every transaction between fees, FBA costs, and ads, so build direct channels first using scrappy supply-side tactics before scaling on marketplaces."
+    related_skills: []
+  - episode: 171
+    title: "Transforming eCommerce With Turnkey Solutions"
+    guest: "AJ Asgari"
+    company: "Drugstore2door"
+    date: 2024-02-01
+    slingshot_areas: [Tech Stack, Experience]
+    fuel_stages: [Unlock]
+    menu_tags: [platform-selection, integrations-apis, checkout-cart-optimisation, upsell-cross-sell, case-studies]
+    key_takeaway: "Independent pharmacies achieve 40% conversion through outbound calls and 20% upsell rates using pre-populated carts that leverage professional expertise."
+    related_skills: []
+  - episode: 172
+    title: "Maximizing Google Ads: Performance Max & Customer Acquisition Strategies"
+    guest: "Kristians Sikora"
+    company: "Aime Media"
+    date: 2024-02-08
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [google-ads, ad-performance-optimisation, conversion-tracking, attribution-analysis, campaign-performance]
+    key_takeaway: "Only 2 out of hundreds of Google Ads accounts had correct conversion tracking; multiple primary conversion actions cause the algorithm to count one sale as four."
+    related_skills: []
+  - episode: 173
+    title: "The State Of Returns: How To Protect Your Business And The Environment"
+    guest: "Dana von der Heide"
+    company: "Parcel Perform"
+    date: 2024-02-15
+    slingshot_areas: [Experience]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [returns-exchanges, post-purchase-support, shipping-strategy, sustainable-practices, customer-retention]
+    key_takeaway: "Fashion return rates hit 50%, but proactive communication systems and sustainability nudges reduce over-ordering without creating purchase barriers."
+    related_skills: []
+  - episode: 174
+    title: "Exploring the Depths of Email and SMS Marketing"
+    guest: "Nikita Vakhrushev"
+    company: "Aspekt Agency"
+    date: 2024-02-22
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [email-automation, sms-messaging, omnichannel-messaging, email-campaigns, customer-retention]
+    key_takeaway: "SMS capture rates jump from 2-3% to 7-8% with psychological popup techniques, and MMS messages generate double the revenue despite lower click rates."
+    related_skills: []
+  - episode: 175
+    title: "Beyond Tired: Secrets to Beating Burnout in eCommerce"
+    guest: "Mario Lanzarotti"
+    company: "Mario Lanzarotti"
+    date: 2024-02-29
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, best-practices, expert-insights, case-studies, professional-community]
+    key_takeaway: "If you wake up needing half a pot of coffee, flip between tasks unable to focus, and crash every weekend, you're experiencing burnout that kills creative thinking."
+    related_skills: []
+  - episode: 176
+    title: "The Unknown Tactics of Mastering SEO & Creating Visual WOW for Your Online Store"
+    guest: "Eagan Heath"
+    company: "Caravan Digital"
+    date: 2024-03-07
+    slingshot_areas: [Marketing, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-page-seo, content-marketing, product-photography, category-optimisation, technical-seo]
+    key_takeaway: "Research keywords before launching a business: 'dog paintings' gets 4,400 monthly US searches, plus breed-specific terms with high commercial intent and low competition."
+    related_skills: [moby]
+  - episode: 177
+    title: "Navigating eCommerce in the Cookieless Landscape"
+    guest: "Zohar Hod"
+    company: "One Creation"
+    date: 2024-03-14
+    slingshot_areas: [Marketing, Tech Stack]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [privacy-compliance, data-strategy, customer-segmentation, behavioural-personalisation, privacy-regulations]
+    key_takeaway: "60% of users now reject or limit cookies, so replace invasive tracking with transparent preference exchanges using the Three C's: Control, Compensation, Clarity."
+    related_skills: []
+  - episode: 178
+    title: "Skyrocket Your Online Business: Easy Steps to Massive Growth"
+    guest: "Sarah Williams"
+    company: "Launch Your Box"
+    date: 2024-03-21
+    slingshot_areas: [Growth, Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [subscription-commerce, customer-communities, social-content, customer-retention, organic-growth]
+    key_takeaway: "Starting with 44 subscribers and a 'serve before you sell' philosophy, consistent Facebook Live sessions built a multi-million-pound subscription box empire."
+    related_skills: []
+  - episode: 179
+    title: "Thriving in Omni Channel: Unleashing Tech, Innovation, and Customer Magic"
+    guest: "Vikram Saxena"
+    company: "BetterCommerce"
+    date: 2024-03-28
+    slingshot_areas: [Tech Stack, Growth]
+    fuel_stages: [Elevate]
+    menu_tags: [unified-commerce-platform, cross-channel-experience, integrations-apis, loyalty-programmes, headless-composable]
+    key_takeaway: "Fragrance Shop achieved 28% year-on-year growth by turning 250+ stores into mini-fulfilment centres using an API-first unified commerce platform."
+    related_skills: []
+  - episode: 180
+    title: "Ecommerce Entrepreneurship: Master Time, Money, Relationships, Purpose"
+    guest: "David Braithwaite"
+    company: "Citrus Financial Management"
+    date: 2024-04-04
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, financial-planning, best-practices, expert-insights, professional-community]
+    key_takeaway: "Schedule rest before work in your calendar because 'the internet never closes' and the business meant to liberate you will become your prison without boundaries."
+    related_skills: []
+  - episode: 181
+    title: "eCommerce Startup Success: Pay Yourself from the Start"
+    guest: "Ciara Stockeland"
+    company: "Ciara Stockeland"
+    date: 2024-04-11
+    slingshot_areas: [Sell, Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [financial-planning, revenue-analytics, pricing-strategies, inventory-management, best-practices]
+    key_takeaway: "Focus on three levers — sales, margins, and expenses — to pay yourself from day one instead of accepting the myth that profit takes five years."
+    related_skills: []
+  - episode: 182
+    title: "How I Create Killer eCommerce Content Without Breaking the Bank"
+    guest: "Ilene Richardson"
+    company: "Imaginary Content"
+    date: 2024-04-18
+    slingshot_areas: [Optimise, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-photography, product-videos, product-descriptions, product-page-optimisation, content-workflows]
+    key_takeaway: "A Content Maturity Framework delivers 20%+ conversion lifts by giving consumers the visual confidence to complete purchases, not by impressing other marketers."
+    related_skills: [moby, page-check]
+  - episode: 183
+    title: "Unlock 15x Sales: The Power of AppCommerce"
+    guest: "Campbell Paton"
+    company: "StoreLab"
+    date: 2024-04-25
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [mobile-apps, push-notifications, mobile-optimisation, customer-retention, checkout-cart-optimisation]
+    key_takeaway: "Push notifications convert 15x higher than email and 9x higher than SMS, and app abandoned cart recovery hits 60% — all with zero per-message cost."
+    related_skills: [moby]
+  - episode: 184
+    title: "The Simple Shift That Could Transform Your eCommerce Business"
+    guest: "Travis Zigler"
+    company: "Profitable Pineapple"
+    date: 2024-05-02
+    slingshot_areas: [Sell, Story]
+    fuel_stages: [Foundation]
+    menu_tags: [brand-strategy, content-marketing, organic-growth, market-research, case-studies]
+    key_takeaway: "Focus on the problem you solve, not the product you sell — this shift generated leads at 6p per click while competitors paid pounds."
+    related_skills: [brand-voice]
+  - episode: 185
+    title: "Unlocking Financial Success: The eCommerce Bookkeeping Guide"
+    guest: "Nathan Hirsch"
+    company: "EcomBalance"
+    date: 2024-05-09
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [financial-planning, revenue-analytics, reporting-dashboards, amazon-marketplace, best-practices]
+    key_takeaway: "You can hit seven-figure sales and still go bankrupt if you don't track actual margins per platform — stop celebrating revenue and start measuring profit."
+    related_skills: []
+  - episode: 186
+    title: "Quit Stalling and Build Your eCommerce Brand"
+    guest: "Ben Leonard"
+    company: "Ecom Brokers"
+    date: 2024-05-16
+    slingshot_areas: [Story, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-strategy, mergers-acquisitions, amazon-marketplace, organic-growth, case-studies]
+    key_takeaway: "Beast Gear earned organic endorsements from Liverpool FC and MMA fighters without paid deals because a genuine brand attracts advocates that 'just selling stuff' never will."
+    related_skills: [brand-voice]
+  - episode: 187
+    title: "From Startup to Profit: Smart Money Strategies for Growth"
+    guest: "Leandro D'Elia"
+    company: "EightX"
+    date: 2024-05-23
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [financial-planning, revenue-analytics, business-planning-strategy, reporting-dashboards, best-practices]
+    key_takeaway: "Most founders chase revenue milestones without saying the word 'profitability' — use EOS goal frameworks to align every KPI to actual profit, not vanity metrics."
+    related_skills: []
+  - episode: 188
+    title: "TikTok Shops: The Warm Front in the eCommerce Winter"
+    guest: "Jordan West"
+    company: "Upgrowth Commerce"
+    date: 2024-05-30
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [social-shopping-platforms, influencer-strategy, creator-partnerships, social-commerce-strategy, video-marketing]
+    key_takeaway: "TikTok Shops' commission-only model aligns creator and brand incentives perfectly, making it 'the most revolutionary thing to come to ecommerce since Amazon.'"
+    related_skills: [igap]
+  - episode: 189
+    title: "Elevating Your eCommerce Ads: Advanced Video Hooks and Strategies"
+    guest: "Nikki Lindgren"
+    company: "Pennock"
+    date: 2024-06-07
+    slingshot_areas: [Marketing]
+    fuel_stages: [Elevate]
+    menu_tags: [campaign-creative, video-marketing, social-media-ads, ad-performance-optimisation, content-planning]
+    key_takeaway: "Maintain 15 proven video hook themes that consistently hit your ROAS target, then systematically test new psychological triggers against this proven baseline."
+    related_skills: [igap]
+  - episode: 190
+    title: "Why Your eCommerce Site Needs a Blog (and How to Get It Right)"
+    guest: "Steven Schneider"
+    company: "Trio SEO"
+    date: 2024-06-13
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [content-marketing, seo-content-writing, technical-seo, product-page-seo, ai-content-tools]
+    key_takeaway: "Start blog content with bottom-funnel keywords targeting ready-to-buy customers, then build topical authority upward like an iceberg — product pages alone are just the tip."
+    related_skills: []
+  - episode: 191
+    title: "Survive and Thrive in a Cookie-less World"
+    guest: "Jeff Greenfield"
+    company: "Provalytics"
+    date: 2024-06-20
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [attribution-analysis, campaign-performance, privacy-compliance, data-strategy, expert-insights]
+    key_takeaway: "The cookieless future is a return to traditional marketing principles: shift focus from clicks to impressions and embrace delayed attribution effects."
+    related_skills: []
+  - episode: 192
+    title: "Leveraging SEO for Greater Business Success"
+    guest: "Brandon Leibowitz"
+    company: "SEO Optimisers"
+    date: 2024-06-27
+    slingshot_areas: [Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [product-page-seo, technical-seo, content-marketing, seo-content-writing, category-optimisation]
+    key_takeaway: "Target niche long-tail keywords like 'organic cotton children's t-shirts' instead of broad terms, using Google's free Keyword Planner to find winnable battles."
+    related_skills: []
+  - episode: 193
+    title: "Cut Costs and Keep Ethical When Sourcing Products"
+    guest: "John Kyle Beaton"
+    company: "China Product Pros"
+    date: 2024-07-04
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [supply-chain-sourcing, ethical-sourcing, inventory-management, sustainable-practices, best-practices]
+    key_takeaway: "Direct factory relationships cut costs 20-40% versus middlemen — verify suppliers by checking their address on Baidu Maps to confirm they're in an industrial zone."
+    related_skills: []
+  - episode: 194
+    title: "Reimagining eCommerce With Content-Driven Marketplaces"
+    guest: "Alex Back"
+    company: "Couch.com"
+    date: 2024-07-11
+    slingshot_areas: [Story, Growth]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [editorial-commerce, content-marketing, marketplace-models, brand-content, expert-insights]
+    key_takeaway: "85% of a £40M furniture company's team handled operations not growth, so content-driven marketplaces that educate rather than transact eliminate that overhead entirely."
+    related_skills: []
+  - episode: 195
+    title: "The Power of Determination in Entrepreneurship"
+    guest: "Ana Estrougo"
+    company: "Octopus Club"
+    date: 2024-07-18
+    slingshot_areas: [Growth, Sell]
+    fuel_stages: [Foundation]
+    menu_tags: [marketplace-models, sustainable-practices, mobile-responsive-design, customer-communities, case-studies]
+    key_takeaway: "Launch before you're ready: a community-led MVP built during baby nap times introduced 30% of users to secondhand shopping for the first time."
+    related_skills: []
+  - episode: 196
+    title: "AI's Revolutionary Impact on the eCommerce World"
+    guest: "Valon Xhafa"
+    company: "Bahamics"
+    date: 2024-07-25
+    slingshot_areas: [Marketing, Tech Stack]
+    fuel_stages: [Elevate, Leapfrog]
+    menu_tags: [ai-personalisation, technical-seo, ai-operations, content-marketing, predictive-analytics]
+    key_takeaway: "Organic traffic accounts for 30-35% of visits but drives 50-55% of revenue because relevance has overtaken domain authority as king of search rankings."
+    related_skills: []
+  - episode: 197
+    title: "Finding Marketing Success Beyond Cookies"
+    guest: "Amelia Coomber"
+    company: "Podscribe"
+    date: 2024-08-01
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock]
+    menu_tags: [attribution-analysis, content-distribution, privacy-compliance, campaign-performance, trends-research]
+    key_takeaway: "With ROAS on traditional channels dropping from 14-16 to 3, old-school channels like podcast advertising and direct mail are delivering superior returns."
+    related_skills: []
+  - episode: 198
+    title: "Transform Your eCommerce Finances With Profit First"
+    guest: "Duncan Lloyd"
+    company: "eCom Profit Genie"
+    date: 2024-08-08
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [financial-planning, revenue-analytics, reporting-dashboards, best-practices, expert-insights]
+    key_takeaway: "Split income into five bank accounts — profit, tax, owner's pay, operating expenses, and inventory — to force profitable decisions instead of spending from one misleading balance."
+    related_skills: []
+  - episode: 199
+    title: "Drive eCommerce Growth with Data Analytics"
+    guest: "Joanne Davis"
+    company: "Sweet Analytics"
+    date: 2024-08-15
+    slingshot_areas: [Growth, Marketing]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [customer-intelligence, reporting-dashboards, predictive-analytics, discount-strategies, revenue-analytics]
+    key_takeaway: "'Growing by 10%' means nothing — convert it to '24,000 new customers' using a Growth Model that calculates exact acquisition targets from existing database value."
+    related_skills: []
+  - episode: 200
+    title: "How Customer-Centric Strategies Can Transform Your Business"
+    guest: "Laura Richard"
+    company: "Level 5 Strategy"
+    date: 2024-08-22
+    slingshot_areas: [Experience, Story]
+    fuel_stages: [Elevate]
+    menu_tags: [brand-strategy, brand-experience, customer-retention, customer-intelligence, expert-insights]
+    key_takeaway: "Emotions drive 50% of consumer behaviour, yet 75% of strategies fail because organisations develop them in isolation without team buy-in or customer emotional insight."
+    related_skills: [brand-voice]
+
+  - episode: 201
+    title: "Buy, Scale, Succeed Online"
+    guest: "Jaryd Krause"
+    company: "Buying Online Businesses"
+    date: 2024-08-29
+    slingshot_areas: [Growth, Sell]
+    fuel_stages: [Unlock]
+    menu_tags: [mergers-acquisitions, business-planning-strategy, organic-growth, revenue-analytics, expert-insights]
+    key_takeaway: "Buying an existing profitable online business lets you skip the 90% startup failure rate and scale through inside-out growth by amplifying what already works."
+    related_skills: []
+  - episode: 202
+    title: "Creating Offers Your Customer Can't Refuse"
+    guest: "Caulen Foster"
+    company: "BrainPower"
+    date: 2024-09-05
+    slingshot_areas: [Optimise, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [special-offers, discount-strategies, product-page-optimisation, customer-retention, upsell-cross-sell]
+    key_takeaway: "Gamified wheel pop-ups converting at 14% prove that increasing perceived value through free premiums outperforms discounting every time."
+    related_skills: [moby]
+  - episode: 203
+    title: "Making Chargebacks Manageable for Your Business"
+    guest: "Qi Cao"
+    company: "ChargeBlast"
+    date: 2024-09-12
+    slingshot_areas: [Tech Stack, Experience]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [payment-security, fraud-prevention, payment-optimisation, post-purchase-support, checkout-cart-optimisation]
+    key_takeaway: "Merchants win only 10-20% of chargeback disputes, so proactive refunding within the 48-hour detection window saves more money than fighting them."
+    related_skills: []
+  - episode: 204
+    title: "Fix Your Broken Ads"
+    guest: "Skip Wilson"
+    company: "DRAFT Media Partners"
+    date: 2024-09-19
+    slingshot_areas: [Marketing, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [ad-performance-optimisation, social-media-ads, google-ads, campaign-performance, attribution-analysis]
+    key_takeaway: "Use the conversion equation (Urgency + Desire + Trust) / (Delay + Cost + Effort) to diagnose exactly where your ad campaigns break down."
+    related_skills: []
+  - episode: 205
+    title: "Fight Burnout and Pursue Your Passion"
+    guest: "Nick Radcliffe"
+    company: "The Christian Poster Company"
+    date: 2024-09-26
+    slingshot_areas: [Story, Marketing]
+    fuel_stages: [Foundation]
+    menu_tags: [brand-strategy, social-content, organic-growth, content-marketing, platform-selection]
+    key_takeaway: "A medical doctor built a profitable Shopify business from Etsy by posting Instagram content every 2-3 days with a 2:1 grid-to-reels ratio, generating two-thirds of sales through his own site."
+    related_skills: []
+  - episode: 206
+    title: "Redefining the Customer Experience with AI"
+    guest: "Fara Rosenzweig"
+    company: "Zeals.ai"
+    date: 2024-10-03
+    slingshot_areas: [Experience, Optimise]
+    fuel_stages: [Elevate, Leapfrog]
+    menu_tags: [conversational-ai, live-chat-messaging, behavioural-personalisation, checkout-cart-optimisation, ai-personalisation]
+    key_takeaway: "AI-powered social chat commerce achieves 3x higher conversion rates by replicating the personal shopping assistant experience across Instagram DMs and Messenger."
+    related_skills: [moby]
+  - episode: 207
+    title: "Turn Your Small Business into Big Money"
+    guest: "Elaine Pofeldt"
+    company: "Elaine Pofeldt"
+    date: 2024-10-10
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [business-planning-strategy, organic-growth, workflow-automation, trends-research, expert-insights]
+    key_takeaway: "53,460 businesses now generate 1-2.49 million annually with just one person by leveraging automation, contractors, and location independence instead of traditional scaling."
+    related_skills: []
+  - episode: 208
+    title: "Using Customer Success Roadmaps and Strategic Alliances to Grow Your Business"
+    guest: "Scott Overbeck"
+    company: "Seacoast Consulting Group"
+    date: 2024-10-17
+    slingshot_areas: [Growth, Marketing]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [partnerships-collaborations, referral-programmes, customer-retention, monetisation-strategies, upsell-cross-sell]
+    key_takeaway: "Mapping what customers buy before, during and after your product reveals strategic alliance opportunities that can increase profits 40-70% without acquiring new customers."
+    related_skills: []
+  - episode: 209
+    title: "Choosing the Right eCommerce Platform"
+    guest: "Amandeep Singh"
+    company: "Cronix LLC"
+    date: 2024-10-24
+    slingshot_areas: [Tech Stack]
+    fuel_stages: [Foundation]
+    menu_tags: [platform-selection, architecture-hosting, integrations-apis, b2b-technology, mobile-optimisation]
+    key_takeaway: "Shopify suits quick-launch B2C, BigCommerce wins on affordable B2B features, and Shopline offers SaaS convenience with custom checkout flexibility."
+    related_skills: []
+  - episode: 210
+    title: "Mastering B2B Ecommerce"
+    guest: "Jason Greenwood"
+    company: "Greenwood Consulting"
+    date: 2024-10-31
+    slingshot_areas: [Tech Stack, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [b2b-fundamentals, b2b-technology, b2b-marketing-sales, wholesale-operations, technical-seo]
+    key_takeaway: "Over 90% of B2B ecommerce sites are invisible to Google because gated catalogues block indexing, while millennial buyers start every supplier search on search engines."
+    related_skills: []
+  - episode: 211
+    title: "Amazon Ecommerce Strategies"
+    guest: "Dan Brownsher"
+    company: "Channel Key"
+    date: 2024-11-07
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [amazon-marketplace, marketplace-optimisation, brand-strategy, social-media-ads, organic-growth]
+    key_takeaway: "Amazon-only businesses face commoditisation without a brand moat; expect to lose money for at least 12 months if you have no branded search traffic going in."
+    related_skills: []
+  - episode: 212
+    title: "The Future of Ecommerce Referrals"
+    guest: "Phil Carr"
+    company: "Upzelo"
+    date: 2024-11-14
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [referral-programmes, loyalty-programmes, push-notifications, mobile-payments, customer-retention]
+    key_takeaway: "Wallet pass referral technology grew one business from 130 to 3,000 passes in three weeks at virtually zero acquisition cost by eliminating copy-paste friction."
+    related_skills: []
+  - episode: 213
+    title: "Mastering SEO for Ecommerce"
+    guest: "Josh Piepmeier"
+    company: "Meriwether"
+    date: 2024-11-21
+    slingshot_areas: [Marketing, Story]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [product-page-seo, content-marketing, seo-content-writing, category-optimisation, brand-content]
+    key_takeaway: "SEO content that injects genuine brand opinion and sells your product within the content outperforms generic keyword-stuffed pages as Google rewards diversity over sameness."
+    related_skills: [brand-voice]
+  - episode: 214
+    title: "Why You Should Consider WooCommerce for Your Ecommerce Business"
+    guest: "Darren Hickey"
+    company: "Fellowship"
+    date: 2024-11-28
+    slingshot_areas: [Tech Stack]
+    fuel_stages: [Foundation]
+    menu_tags: [platform-selection, architecture-hosting, mobile-responsive-design, integrations-apis, b2b-technology]
+    key_takeaway: "WooCommerce clients have run for 10+ years without re-platforming, offering deep customisation and cost-effective features that rigid SaaS platforms cannot match."
+    related_skills: []
+  - episode: 215
+    title: "AI SEO for Your Ecommerce Business"
+    guest: "Farzad Rashidi"
+    company: "Respona"
+    date: 2024-12-05
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [technical-seo, content-marketing, content-distribution, partner-network-growth, ai-content-tools]
+    key_takeaway: "AI search tools recommend brands mentioned across multiple third-party sites, so systematically getting into best-of listicles is the new foundation of AI-era SEO."
+    related_skills: []
+  - episode: 216
+    title: "Scaling Success in Ecommerce"
+    guest: "Steven Pemberton"
+    company: "Elevatum"
+    date: 2024-12-12
+    slingshot_areas: [Growth, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [upsell-cross-sell, customer-segmentation, product-page-optimisation, amazon-marketplace, revenue-analytics]
+    key_takeaway: "Analysing 12,000 customers revealed 98.9% bought one category; a simple buy-one-get-50%-off offer doubled AOV from 37 to 70 and tripled conversion in two days."
+    related_skills: [moby]
+  - episode: 217
+    title: "Ecommerce In Uncertain Times"
+    guest: "Raul Galera"
+    company: "ReferralCandy"
+    date: 2024-12-19
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [referral-programmes, customer-retention, customer-communities, trends-research, campaign-performance]
+    key_takeaway: "Building customer advocacy programs creates uncertainty-resistant business models because word-of-mouth performs consistently regardless of external market disruptions."
+    related_skills: []
+  - episode: 218
+    title: "Mastering the Art of Subscription Commerce"
+    guest: "Matthew Holman"
+    company: "Subscription Doc"
+    date: 2025-01-02
+    slingshot_areas: [Growth, Experience]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [subscription-commerce, customer-retention, customer-segmentation, behavioural-personalisation, loyalty-programmes]
+    key_takeaway: "Subscription customers who make three product changes achieve 600% higher lifetime value, proving that enabling flexibility drives retention far more than locking customers in."
+    related_skills: []
+  - episode: 219
+    title: "From Beading Station to TOMM Jewellery"
+    guest: "Lucy Toone"
+    company: "TOMM Jewellery"
+    date: 2025-01-09
+    slingshot_areas: [Story, Experience]
+    fuel_stages: [Foundation]
+    menu_tags: [brand-strategy, brand-experience, social-content, customer-communities, case-studies]
+    key_takeaway: "Radical transparency and showing up consistently for an audience that did not yet exist built a jewellery brand with celebrity customers and 60% in-house production."
+    related_skills: [brand-voice]
+  - episode: 220
+    title: "Data Driven Ecommerce"
+    guest: "Friedrich Schwandt"
+    company: "Statista and ECDB"
+    date: 2025-01-16
+    slingshot_areas: [Growth, Marketing]
+    fuel_stages: [Elevate]
+    menu_tags: [revenue-analytics, reporting-dashboards, customer-intelligence, trends-research, market-research-entry]
+    key_takeaway: "Businesses with over 60% marketplace dependency face significantly higher revenue volatility; sustainable brands keep marketplace revenue below 30% of total sales."
+    related_skills: []
+  - episode: 221
+    title: "Use Growth-Driven Design to Build the Website Your Customers Want"
+    guest: "Tanner Holt"
+    company: "Mach 7 Marketing"
+    date: 2025-01-23
+    slingshot_areas: [Optimise, Tech Stack]
+    fuel_stages: [Foundation]
+    menu_tags: [product-page-optimisation, navigation-architecture, ab-testing, user-behaviour, mobile-responsive-design]
+    key_takeaway: "Validate website features with 25-dollar micro-tests before building them, because most businesses waste thousands on fancy tools nobody uses."
+    related_skills: [moby, page-check]
+  - episode: 222
+    title: "Personalised Email Marketing in the Era of AI"
+    guest: "Dan Nikas"
+    company: "Elite Brands"
+    date: 2025-01-30
+    slingshot_areas: [Marketing, Experience]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [email-automation, email-campaigns, customer-segmentation, behavioural-personalisation, email-content]
+    key_takeaway: "A furniture brand's 35-day conversion window exposed a fatal flaw: their abandoned cart sequence was only two emails in 24 hours, proving you must match email cadence to actual buying timelines."
+    related_skills: []
+  - episode: 223
+    title: "Focus on Revenue Optimisation Not Conversion Rate"
+    guest: "Matthew Stafford"
+    company: "Build, Grow, Scale"
+    date: 2025-02-06
+    slingshot_areas: [Optimise, Growth]
+    fuel_stages: [Elevate]
+    menu_tags: [checkout-cart-optimisation, product-page-optimisation, revenue-analytics, ab-testing, conversion-tracking]
+    key_takeaway: "Start optimisation at checkout and work backwards because fixing a broken checkout multiplies the impact of every other improvement across your entire site."
+    related_skills: [moby, page-check]
+  - episode: 224
+    title: "The Brutal Money Lessons 90% of eCommerce Founders Learn Too Late"
+    guest: "Jodi Mercer"
+    company: "Ascent CFO Solutions"
+    date: 2025-02-13
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [financial-planning, business-planning-strategy, revenue-analytics, reporting-dashboards, expert-insights]
+    key_takeaway: "Build revenue projections down to daily unit targets and plan for half your projected revenue, because entrepreneurs are eternally optimistic and most are just trading dollars for dollars."
+    related_skills: []
+  - episode: 225
+    title: "Why Your Product Images Could Be Killing Your Sales"
+    guest: "Siddharth Sinha"
+    company: "Dresma Inc."
+    date: 2025-02-20
+    slingshot_areas: [Sell, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [product-photography, product-page-optimisation, product-descriptions, mobile-responsive-design, ai-content-tools]
+    key_takeaway: "Mobile shoppers make purchase decisions purely from the image carousel, so context-aware images showing products in real use outperform clinical white-background shots."
+    related_skills: [moby, page-check]
+  - episode: 226
+    title: "How China's E-Commerce Rescued What Amazon Abandoned"
+    guest: "Bjorn Ognibeni"
+    company: "Ognibeni"
+    date: 2025-02-27
+    slingshot_areas: [Optimise, Marketing]
+    fuel_stages: [Leapfrog]
+    menu_tags: [social-shopping-platforms, live-social-shopping, social-commerce-strategy, trends-research, site-search-discovery]
+    key_takeaway: "Western ecommerce optimised itself into sterility with search-driven efficiency while Chinese platforms built discovery-driven experiences that make shopping entertaining again."
+    related_skills: []
+  - episode: 227
+    title: "The Tariff Survival Guide for eCommerce Businesses"
+    guest: "Omer Sasson"
+    company: "The Sasson Company"
+    date: 2025-03-06
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [supply-chain-sourcing, international-logistics, pricing-strategies, ethical-sourcing, business-planning-strategy]
+    key_takeaway: "China often remains competitive despite tariffs due to 45-day lead times versus 6 months elsewhere and lower MOQs, so run the complete numbers before panic-switching suppliers."
+    related_skills: []
+  - episode: 228
+    title: "How Micro-Influencers Can 10x Your eCommerce Growth"
+    guest: "Jay Neyer"
+    company: "Lantern Soul"
+    date: 2025-03-13
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [influencer-strategy, creator-partnerships, social-media-ads, ad-performance-optimisation, influencer-campaigns]
+    key_takeaway: "Influencer whitelisting lets ads run from a creator's profile instead of your brand page, lowering CPMs and improving conversion because customers trust people over companies."
+    related_skills: []
+  - episode: 229
+    title: "The Mistakes Killing Small Brands on Amazon in 2025"
+    guest: "Will Haire"
+    company: "BellaVix"
+    date: 2025-03-20
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [amazon-marketplace, marketplace-optimisation, ad-performance-optimisation, creator-partnerships, pricing-strategies]
+    key_takeaway: "Amazon now requires at least 50% gross margin to be viable, and brands below 100K monthly revenue should focus entirely on bottom-funnel PPC before investing in programmatic."
+    related_skills: []
+  - episode: 230
+    title: "The Hidden Profit Killer in Your Subscription Business (And How to Fix It)"
+    guest: "Paul Chambers"
+    company: "SubSummit"
+    date: 2025-03-27
+    slingshot_areas: [Growth, Experience]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [subscription-commerce, customer-retention, loyalty-programmes, customer-communities, behavioural-personalisation]
+    key_takeaway: "Making subscription cancellation easy paradoxically increases retention and lifetime value because customers who feel free to leave stay longer than those who feel trapped."
+    related_skills: []
+  - episode: 231
+    title: "How to Simplify eCommerce Data Without Drowning in Numbers"
+    guest: "Jeff Sauer"
+    company: "Measure Holdings Group"
+    date: 2025-04-03
+    slingshot_areas: [Optimise]
+    fuel_stages: [Foundation]
+    menu_tags: [analytics-setup, reporting-dashboards, conversion-tracking, user-behaviour, best-practices]
+    key_takeaway: "You will only ever look at 20% of collected data, so configure your analytics like a car dashboard with five key metrics rather than an airplane cockpit with hundreds of dials."
+    related_skills: []
+  - episode: 232
+    title: "How to Build a Customer Experience That Converts in eCommerce"
+    guest: "Tony Conte"
+    company: "Brave Agency"
+    date: 2025-04-10
+    slingshot_areas: [Experience, Marketing]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [cross-channel-experience, brand-experience, content-marketing, customer-retention, live-commerce]
+    key_takeaway: "60% of brands say customer experience matters most but only 30% act on it; multichannel businesses see 190% revenue increase when adding three new sales channels."
+    related_skills: []
+  - episode: 233
+    title: "Subscription Models for eCommerce That Grow Your Customer Lifetime Value"
+    guest: "Thomas Lalas"
+    company: "Retention Marketing for 8-9+ Figure Brands"
+    date: 2025-04-17
+    slingshot_areas: [Growth, Experience]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [subscription-commerce, customer-retention, email-automation, post-purchase-support, loyalty-programmes]
+    key_takeaway: "Treat the first two weeks post-purchase as part of the product experience and space out subscription freebies monthly to create anticipation that fights churn."
+    related_skills: []
+  - episode: 234
+    title: "Why Customers Don't Trust Your 5-Star Reviews (And How to Fix It)"
+    guest: "DJ Sprague"
+    company: "Shopper Approved"
+    date: 2025-04-24
+    slingshot_areas: [Optimise, Story]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [reviews-ratings, trust-signals, user-generated-content, product-page-optimisation, brand-experience]
+    key_takeaway: "Two-thirds of adults check multiple review platforms before buying, so collecting and distributing authentic reviews everywhere beats curating perfect scores on one site."
+    related_skills: [moby, page-check]
+  - episode: 235
+    title: "From $13K Crowdfunding to an 8-Figure eCom Business"
+    guest: "Adam Callinan"
+    company: "Bottlekeeper"
+    date: 2025-05-01
+    slingshot_areas: [Sell, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [business-planning-strategy, organic-growth, workflow-automation, brand-strategy, case-studies]
+    key_takeaway: "Bottlekeeper reached 8 million in sales with zero employees by building automation-first from day one and developing patents that made IP more valuable than revenue at exit."
+    related_skills: []
+  - episode: 236
+    title: "Turn Boring Product Listings into James Bond Adventures with AI"
+    guest: "Matt Anderson"
+    company: "Dragonfly AI"
+    date: 2025-05-08
+    slingshot_areas: [Story, Optimise]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [product-descriptions, ai-content-tools, brand-content, product-page-optimisation, content-planning]
+    key_takeaway: "Transforming manufacturer specs into persona-driven narratives using AI prompt engineering creates product copy that emotionally connects with customers instead of listing features."
+    related_skills: [brand-voice, moby]
+  - episode: 237
+    title: "Why I Rejected Subscriptions and Built a Thriving Social Commerce Brand"
+    guest: "Gareth Everard"
+    company: "Rockwell Razors"
+    date: 2025-05-15
+    slingshot_areas: [Story, Growth]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [brand-strategy, customer-communities, referral-programmes, social-commerce-strategy, case-studies]
+    key_takeaway: "Rockwell Razors thrives without subscriptions by making exceptional products that inspire organic word-of-mouth, proving forced recurring billing is not required for sustainable growth."
+    related_skills: [brand-voice]
+  - episode: 238
+    title: "The $600 Billion Payment Problem Secretly Destroying Your Bottom Line"
+    guest: "Frank Arellano"
+    company: "Revolv3"
+    date: 2025-05-22
+    slingshot_areas: [Tech Stack, Growth]
+    fuel_stages: [Unlock, Elevate]
+    menu_tags: [payment-optimisation, payment-gateways, checkout-cart-optimisation, subscription-commerce, revenue-analytics]
+    key_takeaway: "10-14% of ecommerce transactions decline and two-thirds are false declines of valid customers, representing a 600 billion dollar hidden revenue drain most stores ignore entirely."
+    related_skills: []
+  - episode: 239
+    title: "The Unexpected Challenges of Pitching Your Ecommerce Co on Dragons' Den"
+    guest: "Millie Flemington-Clare"
+    company: "Human Beauty"
+    date: 2025-05-29
+    slingshot_areas: [Story, Sell]
+    fuel_stages: [Foundation]
+    menu_tags: [brand-strategy, brand-experience, accessibility-inclusive-design, case-studies, social-impact]
+    key_takeaway: "TV exposure generated 20,000 website visitors but shifted demographics 30 years older, proving that modern media reach is fragmented and brands must validate channel-audience fit."
+    related_skills: []
+  - episode: 240
+    title: "Why Purpose Over Profit Actually Builds Sustainable Businesses"
+    guest: "George Bryant"
+    company: "Mind of George"
+    date: 2025-06-05
+    slingshot_areas: [Story, Growth]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [brand-strategy, brand-experience, customer-retention, customer-communities, expert-insights]
+    key_takeaway: "Purpose-driven companies outperform the market by 5-7% annually, but 42% of consumers distrust corporate purpose claims, making authentic execution the real competitive advantage."
+    related_skills: [brand-voice]
+  - episode: 241
+    title: "How to Ship Bulky Products Internationally Without Breaking the Bank"
+    guest: "Robert Khachatryan"
+    company: "Freight Right"
+    date: 2025-06-12
+    slingshot_areas: [Growth]
+    fuel_stages: [Unlock]
+    menu_tags: [international-logistics, shipping-strategy, market-research-entry, international-operations, global-payments-tax]
+    key_takeaway: "Enabling direct international shipping with duty and tax calculation saves up to 40% versus traditional distribution networks while capturing sales from your existing global web traffic."
+    related_skills: []
+  - episode: 242
+    title: "When to Let Go of a Product That Isn't Working Anymore"
+    guest: "Amy Leinbach"
+    company: "Big Bee Little Bee"
+    date: 2025-06-19
+    slingshot_areas: [Sell]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, sustainable-practices, product-information, case-studies, best-practices]
+    key_takeaway: "Brands that strategically prune underperforming products show 22% higher revenue growth; stay married to the problem you solve, not the specific product solution."
+    related_skills: []
+  - episode: 243
+    title: "7 Micro Influencer Marketing Tips Most Brands Miss Completely"
+    guest: "William Gasner"
+    company: "Stack Influence"
+    date: 2025-06-26
+    slingshot_areas: [Marketing]
+    fuel_stages: [Unlock]
+    menu_tags: [influencer-strategy, creator-partnerships, influencer-campaigns, user-generated-content, social-content]
+    key_takeaway: "Micro-influencers with 1,000 followers achieve 60% higher engagement than macro-influencers; spreading budget across 100 small creators diversifies risk and increases viral potential."
+    related_skills: [igap]
+  - episode: 244
+    title: "How AI Influencers Are Eroding Trust & What Really Works Instead"
+    guest: "Luke Yarnton"
+    company: "The Rave"
+    date: 2025-07-03
+    slingshot_areas: [Marketing, Story]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [influencer-strategy, user-generated-content, creator-partnerships, trust-signals, customer-communities]
+    key_takeaway: "The average brand has 200-250 potential influencers per 10,000 customers, and offering partial refunds for content increases response rates from 3-5% to over 50%."
+    related_skills: [igap]
+  - episode: 245
+    title: "The 5-Step APPLE Framework That Quadrupled Customer Retention"
+    guest: "George Bryant"
+    company: "Mind of George"
+    date: 2025-07-10
+    slingshot_areas: [Experience, Growth]
+    fuel_stages: [Foundation, Elevate]
+    menu_tags: [email-automation, customer-retention, post-purchase-support, win-back-reengagement, brand-experience]
+    key_takeaway: "Five strategic post-purchase emails transformed a supplement brand's average LTV from 75 to 744 dollars by extending retention from 3.5 to 15 months without changing product or price."
+    related_skills: []
+  - episode: 246
+    title: "TikTok Shop is Changing Everything for eCommerce Demand Generation"
+    guest: "Jordan West"
+    company: "Social Commerce Club"
+    date: 2025-07-17
+    slingshot_areas: [Marketing, Growth]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [social-shopping-platforms, live-social-shopping, creator-partnerships, social-commerce-strategy, influencer-campaigns]
+    key_takeaway: "TikTok Shop is a demand generation channel not a demand capture channel, with one creator under 10,000 followers generating 250,000 dollars for a brand in a single month."
+    related_skills: [igap]
+  - episode: 247
+    title: "How WhatsApp Commerce Delivers 20% Cart Recovery Rates"
+    guest: "Abhishek Chandra"
+    company: "GoKwik"
+    date: 2025-07-24
+    slingshot_areas: [Marketing, Experience]
+    fuel_stages: [Unlock, Leapfrog]
+    menu_tags: [sms-messaging, omnichannel-messaging, checkout-cart-optimisation, conversational-ai, win-back-reengagement]
+    key_takeaway: "WhatsApp achieves 20% cart recovery versus email's 5% because 90% of messages are opened within five minutes while purchase intent is still high."
+    related_skills: []
+  - episode: 248
+    title: "Learning Is Not the Same as Implementation"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2025-08-07
+    slingshot_areas: [Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [business-planning-strategy, best-practices, expert-insights, case-studies, professional-community]
+    key_takeaway: "After 200+ expert interviews and implementing only 5% of advice, the real bottleneck in ecommerce is not knowledge but closing the gap between learning and doing."
+    related_skills: []
+  - episode: 249
+    title: "Black Friday Part 1 - Create a Compelling Offer"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2025-08-12
+    slingshot_areas: [Growth, Optimise]
+    fuel_stages: [Foundation, Unlock]
+    menu_tags: [special-offers, discount-strategies, upsell-cross-sell, black-friday-cyber-monday, pricing-strategies]
+    key_takeaway: "The margin-to-lifetime-value ratio transforms Black Friday strategy: sacrifice margin only to acquire customers who will spend significantly more over their lifetime through bundles."
+    related_skills: []
+  - episode: 250
+    title: "The Knowledge Trust Matrix for New Customer Success"
+    guest: "Matt Edmundson"
+    company: "Aurion"
+    date: 2025-08-20
+    slingshot_areas: [Experience, Growth]
+    fuel_stages: [Foundation]
+    menu_tags: [customer-retention, post-purchase-support, user-generated-content, trust-signals, black-friday-cyber-monday]
+    key_takeaway: "Move new customers to high-knowledge, high-trust by treating post-purchase communication as relationship building, not profit extraction, especially during Black Friday."
+    related_skills: []
+
+- episode: 251
+  title: "Black Friday Part 3 - The VIP List Strategy for Better Black Friday Results"
+  guest: "Matt Edmundson"
+  company: "Aurion"
+  date: 2025-08-28
+  slingshot_areas: [Marketing, Experience, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [email-automation, sms-messaging, customer-segmentation, black-friday-cyber-monday, referral-programmes]
+  key_takeaway: "Let customers self-select onto a VIP list before Black Friday to split-test offers early and roll out proven winners to your full audience."
+  related_skills: []
+- episode: 252
+  title: "Black Friday Part 4 - The Mom Test and 8 More Tips That Actually Work"
+  guest: "Matt Edmundson"
+  company: "Aurion"
+  date: 2025-09-04
+  slingshot_areas: [Optimise, Marketing]
+  fuel_stages: [Foundation]
+  menu_tags: [mobile-responsive-design, site-performance, black-friday-cyber-monday, checkout-cart-optimisation, technical-seo]
+  key_takeaway: "Send your Black Friday offers to your mum first — if she can't understand and complete the purchase on mobile, your customers won't either."
+  related_skills: [moby]
+- episode: 253
+  title: "Data Is the Biggest Lever in Digital Marketing Right Now"
+  guest: "Vlad Zhovtenko"
+  company: "RedTrack.io"
+  date: 2025-09-11
+  slingshot_areas: [Marketing, Tech Stack]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [attribution-analysis, data-strategy, analytics-setup, reporting-dashboards, ad-performance-optimisation]
+  key_takeaway: "Identify the 1-2 metrics you can actually measure and influence right now — tracking everything creates analysis paralysis that kills growth."
+  related_skills: []
+- episode: 254
+  title: "Why Your Shopify Strategy Is Killing Your Amazon Sales"
+  guest: "Sean Stone"
+  company: "Stones Goods"
+  date: 2025-09-18
+  slingshot_areas: [Sell, Optimise]
+  fuel_stages: [Unlock]
+  menu_tags: [amazon-marketplace, marketplace-optimisation, product-page-optimisation, product-descriptions, ad-performance-optimisation]
+  key_takeaway: "Amazon expects 20% conversion rates — if you're applying your 3% Shopify mindset, use the PAIR framework to assess rankability before investing further."
+  related_skills: [moby]
+- episode: 255
+  title: "Why Summer Slumps Aren't Inevitable"
+  guest: "Matt Edmundson"
+  company: "Aurion"
+  date: 2025-09-25
+  slingshot_areas: [Marketing, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [business-planning-strategy, year-round-planning, mobile-optimisation, organic-growth, best-practices]
+  key_takeaway: "70% of summer purchases are decided in March-May — challenge your seasonal defaults and market when competitors pull back to grow 19% year-on-year."
+  related_skills: []
+- episode: 256
+  title: "Why You Should Market to the Amazon Algorithm Too"
+  guest: "Tim Wilson"
+  company: "Product Wind"
+  date: 2025-10-02
+  slingshot_areas: [Marketing, Optimise]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [amazon-marketplace, marketplace-optimisation, influencer-strategy, user-generated-content, content-marketing]
+  key_takeaway: "Amazon's algorithm values seven specific signals including external traffic and content freshness — orchestrate campaigns showing week-over-week improvement to climb from page 87 to page 1."
+  related_skills: []
+- episode: 257
+  title: "How to Build Authority in AI Search for Your Brand"
+  guest: "Alex Back"
+  company: "Couch"
+  date: 2025-10-09
+  slingshot_areas: [Marketing, Story]
+  fuel_stages: [Leapfrog]
+  menu_tags: [content-marketing, video-marketing, seo-content-writing, content-distribution, trends-research]
+  key_takeaway: "YouTube videos and blog posts published simultaneously can change what ChatGPT and Google AI say about your brand within 48 hours."
+  related_skills: [igap]
+- episode: 258
+  title: "Stop Losing Customers After They Click Buy Now"
+  guest: "Ken Rapp"
+  company: "BluStream"
+  date: 2025-10-16
+  slingshot_areas: [Experience, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [post-purchase-support, email-automation, customer-retention, sms-messaging, brand-experience]
+  key_takeaway: "Send zero coupons or review requests for the first five messages after purchase — just deliver value, and 90% of customers stay on brand journeys months later."
+  related_skills: []
+- episode: 259
+  title: "Buying an eCommerce Business Instead of Starting One"
+  guest: "Michael Simpson"
+  company: "Discount Catholic Products"
+  date: 2025-10-23
+  slingshot_areas: [Growth, Sell]
+  fuel_stages: [Foundation]
+  menu_tags: [mergers-acquisitions, business-planning-strategy, financial-planning, organic-growth, case-studies]
+  key_takeaway: "After evaluating 40 businesses over 18 months, the biggest lesson was to buy bigger than you think you need — a tight margin between loan payments and salary creates survival mode."
+  related_skills: []
+- episode: 260
+  title: "How to Build a Customer Growth System With The FUEL Framework"
+  guest: "Matt Edmundson"
+  company: "Aurion"
+  date: 2025-10-30
+  slingshot_areas: [Marketing, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [business-planning-strategy, email-automation, referral-programmes, partnerships-collaborations, customer-retention]
+  key_takeaway: "Customer acquisition costs have surged 222% since 2013 — the FUEL framework builds growth across all 8 marketing channels sequentially so no single platform change can sink you."
+  related_skills: []
+- episode: 261
+  title: "Building a 7-Figure Business on Connection Not Commodities"
+  guest: "Lou Doyle"
+  company: "Needi"
+  date: 2025-11-06
+  slingshot_areas: [Story, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [brand-strategy, brand-experience, b2b-marketing-sales, partnerships-collaborations, case-studies]
+  key_takeaway: "Needi grew from £500K to £2M by asking 'why are you buying this gift?' instead of 'what do you want?' — understanding the psychology behind the purchase beats competing on price."
+  related_skills: [brand-voice]
+- episode: 262
+  title: "Why Your Black Friday Emails Fail and How to Fix Deliverability"
+  guest: "Robby Bryant"
+  company: "Campaign Monitor"
+  date: 2025-11-13
+  slingshot_areas: [Marketing]
+  fuel_stages: [Foundation]
+  menu_tags: [email-campaigns, email-automation, black-friday-cyber-monday, best-practices, customer-segmentation]
+  key_takeaway: "Keep spam complaints under 0.1%, unsubscribes under 1%, and bounces under 2% — establish consistent weekly cadence before Black Friday or your campaign lands in spam."
+  related_skills: []
+- episode: 263
+  title: "Why Your Website Is Too Complicated (And How To Fix It)"
+  guest: "Ben Sharf"
+  company: "Platter"
+  date: 2025-11-20
+  slingshot_areas: [Tech Stack, Optimise]
+  fuel_stages: [Foundation, Elevate]
+  menu_tags: [architecture-hosting, checkout-cart-optimisation, mobile-responsive-design, product-page-optimisation, site-performance]
+  key_takeaway: "Deleted Shopify apps leave code behind that compounds technical debt — consolidate tools, track revenue per visitor, and test your site with a 7-year-old and a 90-year-old."
+  related_skills: [moby, page-check]
+- episode: 264
+  title: "The Power of Simply Saying Thank You"
+  guest: "Matt Edmundson"
+  company: "Aurion Digital"
+  date: 2025-11-27
+  slingshot_areas: [Experience, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [customer-retention, brand-experience, loyalty-programmes, customer-communities, best-practices]
+  key_takeaway: "A beauty business achieved 40% repeat purchase rates by embedding personal gratitude through handwritten notes and staff empowerment budgets — unexpected thanks compounds loyalty."
+  related_skills: []
+- episode: 265
+  title: "The One Video Per Week YouTube Strategy for eCommerce Businesses"
+  guest: "Nate Woodbury"
+  company: "Be The Hero Studios"
+  date: 2025-12-04
+  slingshot_areas: [Marketing]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [video-marketing, content-marketing, content-planning, seo-content-writing, organic-growth]
+  key_takeaway: "Target 8+ word search questions with just 10 monthly searches — one 10-12 minute educational video per week builds authority from the leaves up and generates referral-quality leads."
+  related_skills: [igap]
+- episode: 266
+  title: "Stop Guessing Your Site Structure and Fix Your SEO"
+  guest: "Sam Wright"
+  company: "BlinkSEO"
+  date: 2025-12-11
+  slingshot_areas: [Tech Stack, Optimise]
+  fuel_stages: [Foundation, Elevate]
+  menu_tags: [technical-seo, navigation-architecture, category-optimisation, product-page-seo, site-search-discovery]
+  key_takeaway: "Collection pages generate 35% of all search impressions — go deeper with categorisation using Search Console data until you have as few as three tightly matched products per page."
+  related_skills: [moby, page-check]
+- episode: 267
+  title: "Fix Your Pop-Up Strategy and Hit Over 10% Opt-In Rates"
+  guest: "Shaan Arora"
+  company: "Alia"
+  date: 2025-12-18
+  slingshot_areas: [Optimise, Marketing]
+  fuel_stages: [Foundation, Elevate]
+  menu_tags: [product-page-optimisation, email-campaigns, discount-strategies, ab-testing, mobile-responsive-design]
+  key_takeaway: "Swap 'Get 10% Off' for 'Unlock Your Mystery Discount' — same offer, different psychology, and brands consistently see large opt-in increases without touching margins."
+  related_skills: [moby]
+- episode: 268
+  title: "A Christmas Thank You to Every Digital David"
+  guest: "Matt Edmundson"
+  company: "Aurion Digital"
+  date: 2025-12-25
+  slingshot_areas: [Story]
+  fuel_stages: [Foundation]
+  menu_tags: [brand-content, brand-experience, best-practices, expert-insights, case-studies]
+  key_takeaway: "Execution trumps intention every time — like Joseph in the Nativity, consistent daily follow-through matters more than grand strategies or perfect infrastructure."
+  related_skills: [brand-voice]
+- episode: 269
+  title: "The Year-End Review Most eCommerce Founders Skip (And Why It's Costing Them)"
+  guest: "Matt Edmundson"
+  company: "Aurion Digital"
+  date: 2026-01-01
+  slingshot_areas: [Growth]
+  fuel_stages: [Foundation]
+  menu_tags: [business-planning-strategy, reporting-dashboards, revenue-analytics, best-practices, expert-insights]
+  key_takeaway: "LEGO didn't know they'd generated no economic profit for a decade — use the 7-area Slingshot framework for honest annual reviews, and accountability partners increase goal achievement by 95%."
+  related_skills: []
+- episode: 270
+  title: "How You Ship Your Products Can Make or Break Your Business"
+  guest: "Dave Gulas"
+  company: "EZDC 3PL"
+  date: 2026-01-08
+  slingshot_areas: [Experience, Tech Stack]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [shipping-strategy, warehouse-management, order-processing, integrations-apis, best-practices]
+  key_takeaway: "The best 3PL relationships start with the most questions — ask about their WMS, response times, and references, and always do a site visit before committing."
+  related_skills: []
+- episode: 271
+  title: "Is Your E-Commerce Platform Wagging the Dog?"
+  guest: "Mikel Lindsaar"
+  company: "StoreConnect"
+  date: 2026-01-15
+  slingshot_areas: [Tech Stack, Experience]
+  fuel_stages: [Elevate, Leapfrog]
+  menu_tags: [architecture-hosting, integrations-apis, ai-personalisation, customer-data-platforms, workflow-automation]
+  key_takeaway: "When all your data lives in one system, you can auto-refund customers who bought 24 hours before a sale — creating moments of joy that generate lifetime value."
+  related_skills: []
+- episode: 272
+  title: "LLM Traffic Converts 5X Better Than Google for eCommerce"
+  guest: "Matthew Stafford"
+  company: "Build Grow Scale"
+  date: 2026-01-22
+  slingshot_areas: [Marketing, Optimise]
+  fuel_stages: [Leapfrog]
+  menu_tags: [technical-seo, content-marketing, ai-content-tools, product-page-seo, trends-research]
+  key_takeaway: "57% of Google searches now end with no click, but LLM traffic converts at 5X — create buyer-intent FAQs per product for your top 20% SKUs to capture AI referrals."
+  related_skills: [moby, page-check]
+- episode: 273
+  title: "From Zero to 5,000 Subscriptions in 10 Months"
+  guest: "Joe Welstead"
+  company: "Drink Oshun"
+  date: 2026-01-29
+  slingshot_areas: [Growth, Optimise]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [subscription-commerce, product-page-optimisation, checkout-cart-optimisation, upsell-cross-sell, customer-retention]
+  key_takeaway: "OSHUN hit 42% subscription signup rate by removing decision fatigue — no quantity selector on the product page, with upsells spread across the cart and post-purchase flow."
+  related_skills: [moby]
+- episode: 274
+  title: "Writing Product Descriptions That Actually Convert"
+  guest: "Matt Edmundson"
+  company: "Aurion"
+  date: 2026-02-05
+  slingshot_areas: [Story, Optimise]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [product-descriptions, seo-content-writing, brand-content, product-page-optimisation, content-marketing]
+  key_takeaway: "Narrative binding makes product copy 42% more memorable after 30 days — rewriting 400 descriptions at Jersey Beauty transformed a commodity site into a brand with personality."
+  related_skills: [brand-voice, page-check]
+- episode: 275
+  title: "How to Stop Chargebacks From Destroying Your Profit Margins"
+  guest: "Jeff Foster"
+  company: "Quick Refund"
+  date: 2026-02-12
+  slingshot_areas: [Experience, Tech Stack]
+  fuel_stages: [Foundation]
+  menu_tags: [payment-security, payment-optimisation, post-purchase-support, fraud-prevention, best-practices]
+  key_takeaway: "25% of chargebacks hit transactions already refunded — make refunds frictionless and overcommunicate with customers because fighting every dispute costs more than accepting them."
+  related_skills: []
+- episode: 276
+  title: "The Creative Engine That Stops Your Meta Ads Burning Out"
+  guest: "Edwin Choi"
+  company: "JetFuel Agency"
+  date: 2026-02-19
+  slingshot_areas: [Marketing]
+  fuel_stages: [Elevate]
+  menu_tags: [social-media-ads, campaign-creative, ad-performance-optimisation, content-workflows, ai-content-tools]
+  key_takeaway: "Calculate your ad decay rate and win rate to find your exact monthly creative need — some accounts require 77 ads per month, and Meta's Andromeda punishes emotional sameness."
+  related_skills: []
+- episode: 277
+  title: "How to Charge Double for Paper Plates (And Have Customers Thank You)"
+  guest: "Salena Knight"
+  company: null
+  date: 2026-02-26
+  slingshot_areas: [Sell, Story]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [pricing-strategies, brand-strategy, upsell-cross-sell, product-page-optimisation, case-studies]
+  key_takeaway: "Put two high-priced products at the top of every category page to anchor perception — premium brands that survived 2025 charged above average, not below it."
+  related_skills: [brand-voice]
+- episode: 278
+  title: "Your Customers Don't Care About Your Brand"
+  guest: "Matt Edmundson"
+  company: "Aurion Digital"
+  date: 2026-03-05
+  slingshot_areas: [Story]
+  fuel_stages: [Foundation]
+  menu_tags: [brand-strategy, brand-content, product-descriptions, brand-experience, best-practices]
+  key_takeaway: "Count the we/you ratio on your homepage — the only messaging that matters lives in the Story Overlap where your brand story and your customer's story intersect."
+  related_skills: [brand-voice, brand-voice-pro]
+- episode: 279
+  title: "The $20K Loan That Turned Into an Ecommerce Death Spiral"
+  guest: "Rob te Braake"
+  company: "Insight Matters"
+  date: 2026-03-12
+  slingshot_areas: [Growth]
+  fuel_stages: [Foundation]
+  menu_tags: [financial-planning, revenue-analytics, pricing-strategies, business-planning-strategy, case-studies]
+  key_takeaway: "Platform loans at 20% interest on 10% margins actively shrink profits — know your gross margin, CAC-to-LTV ratio, and working capital cycle in your sleep before taking any debt."
+  related_skills: []
+- episode: 280
+  title: "You Get Three Thumb Scrolls Before They Buy or Leave"
+  guest: "Adam Pearce"
+  company: "Blend Commerce"
+  date: 2026-03-19
+  slingshot_areas: [Optimise]
+  fuel_stages: [Foundation, Elevate]
+  menu_tags: [product-page-optimisation, mobile-responsive-design, site-search-discovery, ab-testing, trust-signals]
+  key_takeaway: "Exposing the search bar on mobile consistently lifts conversion 30-50% — shoppers see only 23-30% of your product page, so everything critical must be in those first three scrolls."
+  related_skills: [moby, page-check]
+- episode: 281
+  title: "Why Your Best Customers Leave After the First Order"
+  guest: "Max Beech"
+  company: "Athenic"
+  date: 2026-03-26
+  slingshot_areas: [Experience, Growth]
+  fuel_stages: [Foundation, Unlock]
+  menu_tags: [customer-retention, post-purchase-support, behavioural-personalisation, email-automation, customer-segmentation]
+  key_takeaway: "Ask one question in your post-purchase email — 'Why did you buy this?' — it gives better segmentation data than months of behavioural tracking and transforms your first 14 days."
+  related_skills: []
+- episode: 282
+  title: "How I'm Using AI in My Ecommerce Businesses Right Now"
+  guest: "Matt Edmundson"
+  company: "Aurion"
+  date: 2026-04-02
+  slingshot_areas: [Tech Stack, Marketing]
+  fuel_stages: [Leapfrog]
+  menu_tags: [ai-content-tools, ai-operations, content-workflows, product-photography, best-practices]
+  key_takeaway: "A four-tool AI stack costing £350/month — Claude Code with Obsidian as a thinking partner, Perplexity for sourced research, Notebook LM for on-demand learning, and Gemini for product lifestyle images."
+  related_skills: []
+- episode: 283
+  title: "The Metric Nobody Tracks That Drives 56x Subscriber Growth"
+  guest: "Jay Myers"
+  company: "Bold Commerce"
+  date: 2026-04-09
+  slingshot_areas: [Growth, Marketing]
+  fuel_stages: [Unlock, Elevate]
+  menu_tags: [referral-programmes, subscription-commerce, customer-retention, partner-network-growth, customer-intelligence]
+  key_takeaway: "A 0.4 increase in referral rate produced 56x more subscribers at 30 months — use scarce golden ticket codes instead of generic share-and-save links to drive intrinsic referral motivation."
+  related_skills: []
+
