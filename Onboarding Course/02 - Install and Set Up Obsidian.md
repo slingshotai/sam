@@ -78,6 +78,23 @@ You don't need to be a developer to use GitHub. Here's what you actually do:
 
 If you want to look at a GitHub repo in your browser, it's just a website with folders and files — nothing scary.
 
+## Part 2b: Install Git
+
+Before Claude can download anything from GitHub, your machine needs a tool called Git. Git is the software that does the actual downloading — GitHub is the website, Git is the engine.
+
+On some machines Git is already installed. On others it isn't. Let's check and fix this now, because the next step depends on it.
+
+In VS Code, open the Claude Code panel and type:
+
+```
+Check if Git is installed on my machine. If it isn't, walk me through
+installing it step by step.
+```
+
+Claude will check and either confirm it's already there, or guide you through installing it. On Mac this usually means installing Xcode Command Line Tools (Claude will handle this). On Windows it means downloading Git from git-scm.com.
+
+**This only takes a minute** and you only do it once. Once Git is installed, Claude can download repos from GitHub for the rest of your membership.
+
 ## Part 3: The Handoff — Enter the System
 
 This is the moment where you go from following a PDF to working inside the system.
@@ -143,3 +160,4 @@ The handoff is done. Welcome to the system.
 **→ Open Module 3 in Obsidian:** [[03 - How Skills Work|Next → How Skills Work]]
 
 [[01 - Install VS Code and Claude Code|← Install VS Code & Claude Code]]
+

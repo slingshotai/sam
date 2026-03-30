@@ -39,12 +39,12 @@ Or pick your own. The only requirement: it should be useful for your business.
 In Claude Code, say something like:
 
 ```
-Research [your topic] for ecommerce stores selling [your product type].
+Research [your topic] for my ecommerce business.
 Create a practical playbook I can reference later — not theory, but
 actionable steps I can use. Save it to my SlingshotAI/Playbooks folder.
 ```
 
-Be specific about your business. "Product page photography for supplement brands" will give you better results than "product photography tips."
+You don't need to tell Claude what you sell or what platform you're on — it already knows from your member profile. Just tell it the topic and Claude will tailor the research to your business automatically.
 
 ### Step 3: Review the Output
 
@@ -84,3 +84,5 @@ This is what every SlingshotAI skill does, but better — because each skill has
 ---
 
 [[03 - How Skills Work|← How Skills Work]] | [[05 - Install Your First Skill|Next → Install Your First Skill]]
+
+

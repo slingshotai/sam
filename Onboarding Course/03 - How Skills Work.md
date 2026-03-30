@@ -91,10 +91,18 @@ No terminal commands to memorise, no configuration files to edit. Claude reads t
 
 Anthropic — the company behind Claude — publishes their own free skills on GitHub. You can find them at github.com/anthropics/skills.
 
-These cover things like general productivity, code review, and documentation. They're a great way to see how skills are structured if you're curious, and they're completely free to install. Ask Claude:
+These cover things like general productivity, code review, and documentation. They're a great way to see how skills are structured if you're curious, and they're completely free to install.
+
+Let's install one now. Type this into Claude:
 
 ```
-Install the skill from github.com/anthropics/skills — show me what's available and let me pick one.
+I want to install a skill from Anthropic. What's available?
+```
+
+Claude will show you the list. When it does, ask it to **install the skill-creator** — we'll need this in the bonus module if you want to build your own skills:
+
+```
+Can you install the skill-creator skill? We'll need it later.
 ```
 
 ## Safety: Be Careful What You Install
@@ -131,3 +139,4 @@ Skills aren't magic. They're structured instructions that make Claude consistent
 ---
 
 [[02 - Install and Set Up Obsidian|← Install & Set Up Obsidian]] | [[04 - Starter Exercise|Next → Starter Exercise]]
+

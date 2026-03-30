@@ -43,30 +43,7 @@ To sign up:
 2. Create an account (email or Google sign-in)
 3. Go to Settings and upgrade to Pro (or Max)
 
-### 4. Install the CLI (Your First Terminal Moment)
-
-Two quick definitions:
-
-- **CLI** (Command Line Interface) — a way of talking to your computer by typing commands instead of clicking buttons. You know how you click an icon to open an app? The CLI lets you do the same thing by typing a command instead.
-- **Terminal** — the place where you type those commands. It's built right into VS Code.
-
-This step is optional but recommended. The extension works on its own, but the CLI is useful for some skills and gives you a reason to meet the terminal.
-
-1. In VS Code, open the terminal: **Ctrl+`** (backtick) or **View → Terminal**
-2. Copy and paste this command, then press Enter:
-
-```
-curl -fsSL https://claude.ai/install.sh | bash
-```
-
-3. Wait for it to finish — you'll see some text scroll by, then a success message
-4. While you're in the terminal, type `claude` and press Enter — this triggers a login flow in your browser (same as the extension login). Sign in and click Allow.
-
-**Why log in twice?** The VS Code extension and the CLI are like two doors into the same room — they share your conversation history and settings, but each needs its own login. This is a one-time setup.
-
-That's it. You've just installed software and authenticated it using the terminal. When you see instructions that say "run this command" in later modules, this is where you do it — the terminal panel at the bottom of VS Code.
-
-### 5. Connect Claude Code to Your Account
+### 4. Connect Claude Code to Your Account
 
 1. In VS Code, open any file (or create a new one — doesn't matter what)
 2. Look for the **spark icon** (a small star/sparkle) in the **top-right corner** of the editor
@@ -76,11 +53,57 @@ That's it. You've just installed software and authenticated it using the termina
 
 **Alternative:** Click **"Spark Claude Code"** in the bottom-right status bar, or press **Cmd+Shift+P** and type "Claude Code"
 
+## Understanding the VS Code Interface
+
+Now that Claude Code is running, here's what you're looking at:
+
+### The Claude Code Panel
+
+- **Chat area** — the main area where Claude's responses appear. This works like a messaging app.
+- **Input box** — at the bottom of the panel. Type your messages here. Press **Enter** to send, or **Shift+Enter** for a new line.
+- **@ mentions** — type `@` followed by a filename to reference a specific file. Claude will read it and use it as context.
+- **/ commands** — type `/` to see available commands. You'll use these later to trigger skills.
+
+### Permission Prompts
+
+When Claude wants to do something (create a file, run a command, read a folder), it asks your permission first. You'll see an **Allow** or **Deny** prompt. This is a safety feature — Claude never acts without your consent. For now, keep it on manual so you can see what it's doing.
+
+### The Status Bar
+
+At the bottom-right of VS Code, you'll see Claude Code's status. This shows you're connected and which model is running.
+
+### 5. Install the CLI (Let Claude Help You)
+
+Two quick definitions:
+
+- **CLI** (Command Line Interface) — a way of talking to your computer by typing commands instead of clicking buttons. You know how you click an icon to open an app? The CLI lets you do the same thing by typing a command instead.
+- **Terminal** — the place where you type those commands. It's built right into VS Code.
+
+Now that Claude is running, let's use it to install the CLI. This is your first real task with Claude — and it's a good one because Claude will detect your operating system and give you the right instructions automatically.
+
+Type this into the Claude Code chat panel:
+
+```
+I want to install the Claude Code CLI on my machine. Can you walk me through
+it step by step? The setup docs are at https://code.claude.com/docs/en/setup
+```
+
+Claude will:
+1. Detect whether you're on Mac, Windows, or Linux
+2. Give you the correct install command for your system
+3. Guide you through running it in the terminal
+4. Help you authenticate the CLI
+
+**Why install the CLI?** The extension works on its own, but the CLI is needed for some skills and it's useful to know where the terminal is. After this, when you see instructions that say "run this command," you know where to go — the terminal panel at the bottom of VS Code.
+
+**Why log in twice?** The VS Code extension and the CLI are like two doors into the same room — they share your conversation history and settings, but each needs its own login. This is a one-time setup.
+
 ## What You Should See When It's Working
 
 - VS Code is open
 - The Claude Code panel is visible (a chat interface on the right or bottom)
 - There's a text input at the bottom where you can type messages
+- Claude has responded to at least one message
 
 ## Test It
 
@@ -112,3 +135,5 @@ From this point on, you can ask Claude for help with anything. Stuck on a step i
 ---
 
 [[00 - Welcome|← Welcome]] | [[02 - Install and Set Up Obsidian|Next → Install & Set Up Obsidian]]
+
+
