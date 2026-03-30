@@ -8,7 +8,7 @@ You don't need to know how to code. VS Code is just the container that Claude Co
 
 ## Watch the Video
 
-> **Video:** [Setting up VS Code & Claude Code] *(link to walkthrough video)*
+> **Video:** https://www.youtube.com/watch?v=Dsey9XxkiDg
 >
 > Matt walks through the full setup on a clean machine — every click, every step. **Watch this first**, then follow the steps below. The video covers exactly what you'll see on screen.
 
@@ -32,7 +32,7 @@ This is the one module where you need to follow manual steps — because Claude 
 4. Click **Install**
 5. If nothing seems to change, press **Cmd+Shift+P**, type "reload window", and hit Enter
 
-### 3. Sign Up for Anthropic (If You Haven't Already)
+### 3. ==Sign Up for Anthropic (If You Haven't Already)
 
 Claude Code needs a paid Anthropic subscription. You need one of:
 - **Claude Pro** ($20/month) — this is what most people start with
@@ -57,7 +57,7 @@ To sign up:
 
 Now that Claude Code is running, here's what you're looking at:
 
-### The Claude Code Panel
+### ==The Claude Code Panel
 
 - **Chat area** — the main area where Claude's responses appear. This works like a messaging app.
 - **Input box** — at the bottom of the panel. Type your messages here. Press **Enter** to send, or **Shift+Enter** for a new line.
@@ -72,7 +72,7 @@ When Claude wants to do something (create a file, run a command, read a folder),
 
 At the bottom-right of VS Code, you'll see Claude Code's status. This shows you're connected and which model is running.
 
-### 5. Install the CLI (Let Claude Help You)
+### 5.  ==Install the CLI (Let Claude Help You)
 
 Two quick definitions:
 

@@ -8,7 +8,7 @@ Before you install your first skill, it helps to understand what a "skill" actua
 
 ## Watch First
 
-> **Video:** [How Skills Work] *(link to walkthrough video)*
+> **Video:** https://www.youtube.com/watch?v=zGc5OU4AUx4
 
 ## What Is a Skill?
 

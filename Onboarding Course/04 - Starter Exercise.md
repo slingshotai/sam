@@ -1,5 +1,7 @@
 # Module 4: Research, Build a Playbook, Create Your First Skill
 
+Video Link: https://www.youtube.com/watch?v=4RjChTKM9fg
+
 ## What We're Doing
 
 This is where everything comes together. You're going to:

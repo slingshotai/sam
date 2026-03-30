@@ -1,5 +1,7 @@
 # Welcome to SlingshotAI
 
+Video Link: https://www.youtube.com/watch?v=x3_1-dlK-vI
+
 Welcome. You've just joined something different.
 
 SlingshotAI isn't a course you watch, a tool you subscribe to, or an agency you hire. It's a toolkit you own and run on your own machine — AI skills that do the work agencies charge thousands for, taught by someone who's built and run ecommerce businesses for over 20 years.
@@ -34,10 +36,6 @@ You'll need:
 - Your store URL (have it handy)
 
 No coding experience needed. If something technical needs to happen, Claude does it. You understand what's happening and why.
-
-## One More Thing
-
-The technical setup IS the first lesson. Learning to use Claude Code is a skill that compounds — every future skill you buy runs on it. So the "barrier" of setting up these tools isn't friction; it's the foundation of everything that comes next.
 
 Let's go.
 

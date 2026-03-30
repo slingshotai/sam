@@ -10,13 +10,9 @@ This module has three parts:
 
 This is the last module you'll follow from the website/PDF. After the handoff, you're inside the system.
 
-## Watch First
-
-> **Video:** [Installing Obsidian & entering the system] *(link to walkthrough video)*
->
-> Matt shows you how to install Obsidian, explains GitHub in plain English, and walks through the handoff moment.
-
 ## Part 1: Install Obsidian
+
+Video linK: https://www.youtube.com/watch?v=aBoQErMdUhM
 
 1. Go to **obsidian.md** (that's obsidian dot m-d)
 2. Click **"Get Obsidian for free"** — it detects your operating system
@@ -60,6 +56,8 @@ Three reasons:
 
 ## Part 2: What Is GitHub?
 
+Video Link: https://www.youtube.com/watch?v=Ste8h7uHSbk
+
 You're about to use GitHub for the first time, so here's what it is in plain English.
 
 GitHub is a website where people store and share files. Think of it as Google Drive for technical projects — but with a superpower: version control. Every change to every file is tracked, so you can always see what changed, when, and go back if needed.
@@ -96,6 +94,8 @@ Claude will check and either confirm it's already there, or guide you through in
 **This only takes a minute** and you only do it once. Once Git is installed, Claude can download repos from GitHub for the rest of your membership.
 
 ## Part 3: The Handoff — Enter the System
+
+Video Link: https://www.youtube.com/watch?v=bAuTEoFMy_Y
 
 This is the moment where you go from following a PDF to working inside the system.
 
