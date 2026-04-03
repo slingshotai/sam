@@ -1,5 +1,7 @@
 # Module 6: Supercharge SAM's Brain & Install the EP Knowledge Base
 
+Video link: https://www.youtube.com/watch?v=EiLmQRf5vXM
+
 ## What We're Doing
 
 In Module 2, SAM was installed with a starter brain — enough to teach the Slingshot Framework basics and answer general questions. Now that you've authenticated GitHub (Module 5), we can give SAM two major upgrades:
