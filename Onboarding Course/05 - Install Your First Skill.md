@@ -75,6 +75,8 @@ You should see your username and "Logged in." If you do, you're ready to downloa
 
 ## Part 2: Purchase and Install Brand Voice Pro
 
+Video link: https://www.youtube.com/watch?v=xrnExjNQVrA
+
 ### Step 1: Purchase Brand Voice Pro
 
 > **Go to the SlingshotAI store** *(link to store)*
@@ -120,7 +122,13 @@ Can you help me with any set up on this skill that is needed?
 
 You should see Claude confirm that Brand Voice Pro is installed and ready.
 
-### Step 4: Run It
+---
+
+## Part 3: Run Brand Voice Pro
+
+Video link: *(coming soon)*
+
+### Step 1: Run It
 
 Now use the skill:
 
@@ -139,7 +147,7 @@ Replace with your actual store URL. Claude will:
 
 This takes about 15-20 minutes per brand. The output is a complete voice system you'll use every time you write copy, brief a freelancer, or set up an AI writing tool.
 
-### Step 5: Review with SAM
+### Step 2: Review with SAM
 
 After Brand Voice Pro produces your guides, ask SAM about it:
 
