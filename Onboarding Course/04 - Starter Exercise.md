@@ -43,6 +43,8 @@ H1 tag to schema markup. Create a practical playbook I can reference
 later. Save it to my SlingshotAI/Playbooks folder.
 ```
 
+> **Note:** The prompts in this module are the latest versions. If the video shows slightly different wording, follow the written prompts here. We update these to improve the experience.
+
 Claude will research and produce a playbook covering title tags, meta descriptions, H1 structure, image alt text, schema markup, internal linking, and more — tailored to your business niche.
 
 ### Step 2: Review What Came Back

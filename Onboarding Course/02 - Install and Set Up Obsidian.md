@@ -89,6 +89,8 @@ Check if Git is installed on my machine. If it isn't, walk me through
 installing it step by step.
 ```
 
+> **Note:** The prompt above is the latest version. If the video shows slightly different wording, that's fine — follow the written prompt here.
+
 Claude will check and either confirm it's already there, or guide you through installing it. On Mac this usually means installing Xcode Command Line Tools (Claude will handle this). On Windows it means downloading Git from git-scm.com.
 
 **This only takes a minute** and you only do it once. Once Git is installed, Claude can download repos from GitHub for the rest of your membership.
@@ -121,6 +123,8 @@ I just joined SlingshotAI. Set up my vault for me:
 
 Walk me through each step and tell me what you're doing.
 ```
+
+> **Note:** The prompt above is the latest version. If the video shows slightly different wording, that's fine — follow the written prompt here. We update these regularly to improve the experience.
 
 ### Step 3: Follow Along
 

@@ -54,19 +54,58 @@ When answering a question:
 
 ## Update Checking
 
-When a member asks to check for updates (e.g. "is there a newer version of SAM?", "check for updates", "update SAM"), follow this process:
+When a member says "sam, update" (or "check for updates", "is there a newer version"), run a **full update check** across everything installed:
 
-1. **Read the local version** from the `version` field in the skill's frontmatter
-2. **Fetch the CHANGELOG.md from the GitHub repo** (for SAM: `https://github.com/slingshotai/sam`). Read the raw file from the repo — don't clone it yet.
-3. **Compare versions.** If the repo has a newer version:
-   - Tell the member their current version and the latest version
-   - Show them the changelog entries for everything between their version and the latest (what changed, when)
-   - Ask: "Would you like me to update? Your `custom/` folder will be preserved — only the base files will be replaced."
-4. **If they say yes**, pull the latest files from the repo, overwrite the base skill files, but leave the `custom/` folder untouched
-5. **If they say no**, that's fine — no action needed
-6. **If versions match**, tell them: "You're on the latest version (vX.X.X). No update needed."
+### What to check
 
-This same process works for any skill that has a `version` field and a GitHub repo. The member just needs to provide the repo URL if it's not SAM.
+| Component | Repo | What to compare |
+|---|---|---|
+| **SAM skill** | `https://github.com/slingshotai/sam` | `version` in SKILL.md frontmatter + CHANGELOG.md |
+| **SAM's brain** | `https://github.com/slingshotai/sam-brain` | Check if new files exist or existing files have changed |
+| **EP Knowledge** | `https://github.com/slingshotai/ep-knowledge` | Check episode count in index + any new episode files |
+| **EP Weekly Brief** | `https://github.com/slingshotai/ep-weekly-brief` | `version` in SKILL.md if present |
+| **Any purchased skills** | Check each skill in `~/.claude/skills/` for a `version` field and a repo URL in the SKILL.md | Compare local version vs repo version |
+
+### The process
+
+1. **Scan installed skills.** Read every SKILL.md in `~/.claude/skills/`. For each skill that has a `version` field, note the version and any repo URL referenced.
+2. **Check SAM first.** Fetch CHANGELOG.md from `https://github.com/slingshotai/sam`. Compare versions.
+3. **Check the brain.** Fetch the file list from `https://github.com/slingshotai/sam-brain`. Compare against local `~/.claude/skills/sam/brain/`. Report new or changed files.
+4. **Check EP Knowledge.** Fetch the episode index from `https://github.com/slingshotai/ep-knowledge`. Compare episode count and check for new episode files.
+5. **Check each purchased skill.** For skills with a repo URL (e.g. Brand Voice Pro at `https://github.com/slingshotai/brand-voice-pro`), fetch the remote CHANGELOG.md and compare versions.
+6. **Present a summary:**
+
+```
+## Update Check
+
+| Component | Local | Latest | Status |
+|---|---|---|---|
+| SAM | v1.0.0 | v1.2.0 | Update available |
+| SAM's Brain | 15 files | 18 files | 3 new files |
+| EP Knowledge | 283 episodes | 286 episodes | 3 new episodes |
+| Brand Voice Pro | v1.0.0 | v1.0.0 | Up to date |
+
+### What's new:
+- **SAM v1.2.0**: [changelog entries]
+- **Brain**: New files: fuel-matrix-detail.md, pricing-strategy.md, retention-playbook.md
+- **EP Knowledge**: Episodes 284, 285, 286 added
+
+Would you like me to update everything, or pick specific items?
+```
+
+7. **If they say "update everything"**, process each update sequentially. For each:
+   - Pull latest files from the repo
+   - Overwrite base files but preserve `custom/` folders
+   - Report what was updated
+8. **If they pick specific items**, only update those.
+9. **After updating**, confirm: "All updates installed. Your custom/ folders were preserved."
+
+### Version and changelog standard for all skills
+
+Every SlingshotAI skill should have:
+- `version: "X.Y.Z"` in the SKILL.md frontmatter
+- A `CHANGELOG.md` in the skill root tracking what changed per version
+- These are used by the update checker to compare local vs remote
 
 ## How You Work
 

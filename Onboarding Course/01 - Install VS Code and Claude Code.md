@@ -88,6 +88,8 @@ I want to install the Claude Code CLI on my machine. Can you walk me through
 it step by step? The setup docs are at https://code.claude.com/docs/en/setup
 ```
 
+> **Note:** The prompt above is the latest version. If the video shows slightly different wording, that's fine — follow the written prompt here. We update these regularly to improve the experience.
+
 Claude will:
 1. Detect whether you're on Mac, Windows, or Linux
 2. Give you the correct install command for your system
