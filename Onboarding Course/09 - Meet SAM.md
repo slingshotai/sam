@@ -1,4 +1,4 @@
-# Module 7: Meet SAM — Your Slingshot AI Mentor
+# Module 9: Meet SAM — Your Slingshot AI Mentor
 
 ## What We're Doing
 
@@ -101,6 +101,22 @@ sam, update my profile
 
 If you add a new store, change platforms, or want to adjust your experience level, SAM will update the file.
 
+## Keeping SAM Updated
+
+We regularly improve SAM — better teaching content, new framework knowledge, refined voice. To check for updates:
+
+```
+Check if there are updates to SAM on GitHub and install them
+```
+
+Claude will check the SlingshotAI onboarding repo for any changes to SAM's skill files and pull the latest version. This works for any installed skill, not just SAM — it's the same pattern:
+
+```
+Check for updates to [skill name] on GitHub
+```
+
+We'll let you know when significant updates ship, but it's good practice to check periodically — especially if SAM's knowledge seems out of date or you've seen us announce new features.
+
 ---
 
-[[06 - Advanced Exercise|← Advanced Exercise]] | [[08 - Whats Next|Next → What's Next]]
+[[08 - Advanced Exercise|← Advanced Exercise]] | [[10 - Whats Next|Next → What's Next]]

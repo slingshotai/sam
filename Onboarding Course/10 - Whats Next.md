@@ -1,4 +1,4 @@
-# Module 8: What's Next
+# Module 10: What's Next
 
 ## You Did It
 
@@ -78,4 +78,4 @@ If you're the kind of founder who thinks in systems and processes — there's a 
 
 ---
 
-[[07 - Meet SAM|← Meet SAM]]
+[[09 - Meet SAM|← Meet SAM]]

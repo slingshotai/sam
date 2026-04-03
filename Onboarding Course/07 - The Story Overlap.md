@@ -4,7 +4,7 @@ The Story Overlap is the central principle underpinning the **Story** component 
 
 **Core principle:** Your brand messaging only matters where your story and your customer's story intersect. Everything outside that overlap is noise.
 
-**Source material:** EP Solo Episode -- "Why Your Customers Don't Care About Your Brand (And What They Care About Instead)" (March 2026). See [[EP Solo - Mar 2026 - Brand Story - Content Bundle]] for full script, blog post, and freebie spec.
+**Source material:** EP Solo Episode -- "Why Your Customers Don't Care About Your Brand (And What They Care About Instead)" (March 2026). See https://www.ecommerce-podcast.com/your-customers-dont-care-about-your-brand for full script, blog post, and freebie spec.
 
 ---
 
@@ -246,3 +246,7 @@ Apply to any customer-facing touchpoint:
 - **EP Episode:** "Why Your Customers Don't Care About Your Brand" (March 2026)
 - **Previous Episode:** Narrative Binding / Product Descriptions (Causal Sequencing: Feature -> Benefit -> Outcome)
 - **Slingshot Framework:** The overlap principle carries through all seven areas -- how we sell, how we market, how we optimise, the experience we create, how we grow
+
+---
+
+[[06 - The Slingshot Framework|← The Slingshot Framework]] | [[08 - Advanced Exercise|Next → Advanced Exercise]]

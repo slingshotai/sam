@@ -94,4 +94,4 @@ When new EP episodes are published and processed, they're automatically tagged a
 
 ---
 
-[[09 - Bonus - Create Your Own Skill|← Create Your Own Skill]] | [[08 - Whats Next|Back to What's Next]]
+[[10 - Whats Next|← What's Next]]
