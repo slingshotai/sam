@@ -70,12 +70,6 @@ Welcome to the club. Let's build something worth building.
 
 — Matt
 
-## Bonus: Build Your Own Skill
-
-If you're the kind of founder who thinks in systems and processes — there's a bonus module on building your own skills. It walks you through creating a skill from scratch, testing it, and using the Anthropic skill-creator tool. Every SOP in your business could become a skill that Claude executes automatically.
-
-[[09 - Bonus - Create Your Own Skill|Go to Bonus Module → Create Your Own Skill]]
-
 ---
 
 [[09 - Meet SAM|← Meet SAM]]
