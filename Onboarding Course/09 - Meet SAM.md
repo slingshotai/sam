@@ -117,6 +117,35 @@ Check for updates to [skill name] from [repo URL]
 
 We'll let you know when significant updates ship, but it's good practice to check periodically — especially if SAM's knowledge seems out of date or you've seen us announce new features.
 
+### Important: Protecting Your Customisations
+
+Over time, you might tweak SAM or other skills — adjusting the voice, adding custom instructions, changing how something works for your specific business. That's great, and we encourage it.
+
+But here's the thing: **when you pull updates from GitHub, the base skill files get overwritten.** If you've edited `SKILL.md` directly, your changes will be lost.
+
+The solution: every skill supports a **`custom/` folder** that never gets touched by updates.
+
+```
+~/.claude/skills/sam/
+├── SKILL.md              ← from GitHub (overwritten on update)
+├── references/            ← from GitHub (overwritten on update)
+├── learn/                 ← from GitHub (overwritten on update)
+└── custom/                ← YOURS (never overwritten)
+    ├── voice-tweaks.md    ← your personalised adjustments
+    └── custom-notes.md    ← anything you want SAM to know
+```
+
+If you want SAM to behave differently — use different phrases, focus on certain topics, adjust how it teaches — ask Claude to save those changes to the `custom/` folder:
+
+```
+I want SAM to always ask me about my weekly goals before starting a lesson.
+Save this as a custom override so it survives updates.
+```
+
+Claude will create a file in `custom/` with your instruction. SAM reads this folder on every session and applies your overrides on top of the base instructions.
+
+**The rule:** never edit the base files directly. Always put your changes in `custom/`. That way you get our improvements AND keep your personalisation.
+
 ---
 
 [[08 - Advanced Exercise|← Advanced Exercise]] | [[10 - Whats Next|Next → What's Next]]
