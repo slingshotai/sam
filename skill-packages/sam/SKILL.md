@@ -50,6 +50,7 @@ Parse what the member is asking for. Requests fall into three modes:
 | **Guided Lesson** | "teach me", "help me learn", "walk me through" | "sam, teach me mobile auditing" |
 | **Demo** | "show me", "run", "what does X do" | "sam, show me what Moby does" |
 | **Discovery** | "what can I learn", "what skills", "what's available" | "sam, what can I learn about?" |
+| **Update** | "update", "check for updates", "new version" | "sam, update" |
 
 If the request is ambiguous, ask one clarifying question. Don't guess.
 

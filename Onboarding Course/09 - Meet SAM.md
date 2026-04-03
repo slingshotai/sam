@@ -103,22 +103,24 @@ If you add a new store, change platforms, or want to adjust your experience leve
 
 ## Keeping SAM Updated
 
-We regularly improve SAM — better teaching content, new framework knowledge, refined voice. To check for updates:
+We regularly improve SAM — better teaching content, new framework knowledge, refined voice. To check for updates, just type:
 
 ```
-Check if there are updates to SAM from https://github.com/slingshotai/slingshot-onboarding and install them
+sam, update
 ```
 
-Claude will check the repo for any changes to SAM's skill files and pull the latest version. This works for any installed skill — just give Claude the repo URL:
+SAM will:
+1. Check what version you're running locally
+2. Fetch the changelog from GitHub to see what's changed
+3. Show you what's new between your version and the latest
+4. Ask if you want to update
+
+Your `custom/` folder is always preserved — only the base files get replaced.
+
+This works for any installed skill, not just SAM — just give Claude the skill name and repo URL:
 
 ```
 Check for updates to [skill name] from [repo URL]
-```
-
-Every skill has a version number in its frontmatter and a CHANGELOG.md tracking what changed. When you check for updates, Claude compares your local version against the repo version and tells you what's new:
-
-```
-What version of SAM am I running? Is there a newer version on GitHub?
 ```
 
 Claude will read your local version (e.g. "You're on v1.0.0") and check the repo ("GitHub has v1.2.0 — changes include improved Slingshot Framework content and new EP Knowledge integration"). You can then decide whether to update.
