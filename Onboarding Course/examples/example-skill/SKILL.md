@@ -1,6 +1,6 @@
 ---
 name: page-check
-description: "Quick health check on an ecommerce product page. Visits the URL and checks for essential elements every product page needs: title, description, images, pricing, call-to-action, and meta description. Produces a simple pass/fail checklist. Use when someone says 'check this page', 'page check', 'is my product page OK', or shares a product URL and wants a quick review. NOT for a full mobile audit (use mobile-audit for that)."
+description: "Quick health check on an ecommerce product page. Visits the URL and checks for essential elements every product page needs: title, description, images, pricing, call-to-action, and meta description. Produces a simple pass/fail checklist. Use when someone says 'check this page', 'page check', 'is my product page OK', or shares a product URL and wants a quick review. NOT for a full mobile audit (use moby for that)."
 user-invocable: true
 argument-hint: "product_page_url"
 ---

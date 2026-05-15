@@ -1,5 +1,10 @@
 # SAM — Changelog
 
+## v1.3.0 — 2026-05-15
+
+- Added SCOUT to the skill family — recognised in update checks, discovery mode, and teaching examples. SCOUT audits ecommerce stores for SEO + AI discoverability across six surfaces (AI discovery, site SEO, blog/content, YouTube, social, digital PR) and tracks where AI assistants cite the brand. Update flow is handled by the existing "purchased skills" pattern — no SCOUT-specific update logic needed.
+- Added MAGPIE to the update-check table — recognised so `sam, update` will track it for members who install it. MAGPIE automates Instagram Reel discovery + analysis, ranking by view velocity and feeding the top performers into the brand's content playbook and ideas bank. Currently v0.1.0 (scaffold only, no runtime code yet); full pipeline shipping in v0.2.0+. Update flow uses the existing "purchased skills" pattern — no MAGPIE-specific update logic needed.
+
 ## v1.2.0 — 2026-04-03
 
 - **Explicit update instructions**: Update process now has step-by-step commands for each component (SAM repo, brain, EP Knowledge, purchased skills). Uses `git pull origin main` as the primary update mechanism — no more partial updates.

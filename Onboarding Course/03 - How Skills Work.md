@@ -64,7 +64,7 @@ Skills live in a specific folder on your machine:
 ~/.claude/skills/           ← global skills (work everywhere)
 ```
 
-When Claude Code starts, it reads all the skills in this folder. When you type a command like `/mobile-audit`, Claude finds the matching skill and follows its instructions.
+When Claude Code starts, it reads all the skills in this folder. When you type a command like `/moby`, Claude finds the matching skill and follows its instructions.
 
 ## How Does SAM Fit In?
 
