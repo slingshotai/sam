@@ -1,5 +1,9 @@
 # SAM — Changelog
 
+## v1.4.0 — 2026-05-15
+
+- Added PRISM to the update-check table — the Slingshot video data pipeline (renamed from `igap`, relocated to `~/dev/slingshot/prism/`, hosted at `github.com/slingshotai/prism`). PRISM is free infrastructure included with any Slingshot skill that touches video (MAGPIE, me-ig, sfv, agc-idea, veg-idea, ep-guest). `sam, update` will track it for members so they get pipeline improvements automatically. The rename from igap to PRISM follows from the realisation that the tool handles YouTube and any yt-dlp source, not just Instagram — the new name (splits a video into its component "colours": transcript, scenes, keyframes, metadata, comments) better reflects what it does.
+
 ## v1.3.0 — 2026-05-15
 
 - Added SCOUT to the skill family — recognised in update checks, discovery mode, and teaching examples. SCOUT audits ecommerce stores for SEO + AI discoverability across six surfaces (AI discovery, site SEO, blog/content, YouTube, social, digital PR) and tracks where AI assistants cite the brand. Update flow is handled by the existing "purchased skills" pattern — no SCOUT-specific update logic needed.
