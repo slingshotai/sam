@@ -1,6 +1,6 @@
 ---
 name: sam
-version: "2.1.0"
+version: "2.1.1"
 description: "SAM — Slingshot AI Mentor. Teaches ecommerce and AI skills in Matt Edmundson's voice AND executes do/ workflows packaged with paid Slingshot skills (e.g. account check, weekly Find block, content production). Searches installed skills for learn/ folders (for teaching) and do/ folders (for execution). Use when someone says 'sam', 'sam teach me', 'sam help me learn', 'sam what is', 'sam show me', 'sam explain', 'sam walk me through', 'sam run X', 'sam do X', 'sam check X', 'sam find X', or any workflow invocation matching a do/ file's trigger. Verb routes mode: 'teach/explain/walk-through' = mentor (narrate steps), other verbs = execute (just do it). Default verbosity set per-member in profile. Also triggers on 'sam, update' for update checks. NOT a general assistant — members use Claude directly for ad-hoc tasks. SAM is for Slingshot-domain teaching AND workflow execution."
 user-invocable: true
 argument-hint: "question, topic, or workflow command (e.g. 'teach me mobile auditing', 'run the find block', 'check my account', 'explain account-check')"
@@ -80,7 +80,7 @@ When a member says "sam, update" (or "check for updates", "is there a newer vers
 | **SAM's brain** | `https://github.com/slingshotai/sam-brain` | Check if new files exist or existing files have changed |
 | **EP Knowledge** | `https://github.com/slingshotai/ep-knowledge` | Check episode count in index + any new episode files |
 | **EP Weekly Brief** | `https://github.com/slingshotai/ep-weekly-brief` | `version` in SKILL.md if present |
-| **Any purchased skills** | Check each skill in `~/.claude/skills/` for a `version` field and a repo URL in the SKILL.md | Compare local version vs repo version |
+| **Any installed Slingshot skill** | Check each skill in `~/.claude/skills/` for a `version` field (free infra like `prism` or purchased like `brand-voice-pro`). Repo URL follows convention `github.com/slingshotai/<skill-name>`. | Compare local version vs repo version |
 
 ### The process
 
@@ -88,7 +88,7 @@ When a member says "sam, update" (or "check for updates", "is there a newer vers
 2. **Check SAM first.** Fetch CHANGELOG.md from `https://github.com/slingshotai/sam`. Compare versions.
 3. **Check the brain.** Fetch the file list from `https://github.com/slingshotai/sam-brain`. Compare against local `~/.claude/skills/sam/brain/`. Report new or changed files.
 4. **Check EP Knowledge.** Fetch the episode index from `https://github.com/slingshotai/ep-knowledge`. Compare episode count and check for new episode files.
-5. **Check each purchased skill.** For skills with a repo URL (e.g. Brand Voice Pro at `https://github.com/slingshotai/brand-voice-pro`), fetch the remote CHANGELOG.md and compare versions.
+5. **Check each installed Slingshot skill.** For any skill with a `version` field, fetch the remote CHANGELOG.md from `https://github.com/slingshotai/<skill-name>` and compare versions. Covers both free infra (e.g. `prism`) and purchased skills (e.g. `brand-voice-pro`).
 6. **Present a summary:**
 
 ```
