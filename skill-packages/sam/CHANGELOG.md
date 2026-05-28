@@ -1,5 +1,9 @@
 # SAM — Changelog
 
+## v2.1.0 — 2026-05-28
+
+- Episode freshness check: when a member references an EP episode by number that isn't in the local ep-knowledge index, SAM now prompts them to update before answering, instead of guessing from the title. Keys off the episode number now baked into the EP newsletter's SAM-section prompt.
+
 ## v2.0.0 — 2026-05-18
 
 **Major version: SAM evolves from teach-only to teach-or-do.**
