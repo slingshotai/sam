@@ -1,13 +1,64 @@
 # SAM — Changelog
 
-## v1.4.0 — 2026-05-15
+## v2.0.0 — 2026-05-18
 
-- Added PRISM to the update-check table — the Slingshot video data pipeline (renamed from `igap`, relocated to `~/dev/slingshot/prism/`, hosted at `github.com/slingshotai/prism`). PRISM is free infrastructure included with any Slingshot skill that touches video (MAGPIE, me-ig, sfv, agc-idea, veg-idea, ep-guest). `sam, update` will track it for members so they get pipeline improvements automatically. The rename from igap to PRISM follows from the realisation that the tool handles YouTube and any yt-dlp source, not just Instagram — the new name (splits a video into its component "colours": transcript, scenes, keyframes, metadata, comments) better reflects what it does.
+**Major version: SAM evolves from teach-only to teach-or-do.**
 
-## v1.3.0 — 2026-05-15
+The headline change: SAM can now *run* workflows packaged with paid Slingshot skills (e.g. `sam, check my account` runs an actual account analysis via MAGPIE and saves the report), not just teach. The teach-first DNA is preserved as one mode — *narrate* — within an evolved product. Members choose per invocation via the verb they use.
 
-- Added SCOUT to the skill family — recognised in update checks, discovery mode, and teaching examples. SCOUT audits ecommerce stores for SEO + AI discoverability across six surfaces (AI discovery, site SEO, blog/content, YouTube, social, digital PR) and tracks where AI assistants cite the brand. Update flow is handled by the existing "purchased skills" pattern — no SCOUT-specific update logic needed.
-- Added MAGPIE to the update-check table — recognised so `sam, update` will track it for members who install it. MAGPIE automates Instagram Reel discovery + analysis, ranking by view velocity and feeding the top performers into the brand's content playbook and ideas bank. Currently v0.1.0 (scaffold only, no runtime code yet); full pipeline shipping in v0.2.0+. Update flow uses the existing "purchased skills" pattern — no MAGPIE-specific update logic needed.
+### Added — Workflow mode (6th mode alongside Q&A, Lesson, Demo, Discovery, Update)
+
+- New `do/` folder pattern parallel to `learn/`. Skills can ship `learn/` only (mentor-only — existing pattern), `do/` only (rare — pure tool), or both (teach + do).
+- Workflow files are markdown with frontmatter (`workflow`, `trigger`, `tools`, `duration`, `reads`, `writes`) plus a Purpose, Steps, and Success section.
+- SAM scans all three skill locations (global, vault, project) for `do/*.md` and builds a trigger index. Triggers are natural-language phrases that route the member's input to the right workflow.
+- SAM is stateless per invocation; workflow state lives in vault files declared in `reads:` / `writes:` frontmatter.
+
+### Added — Verb-driven UX (narrate vs execute)
+
+- **Narrate verbs** (`explain`, `walk me through`, `walk-through`, `teach me`, `tell me how to`) — SAM narrates each step as it runs the workflow. Preserves the teach-first DNA.
+- **Execute verbs** (`run`, `do`, `check`, `find`, `replicate`, `analyse`, `update`, `post`, or no verb) — SAM runs silently, reports only the result summary.
+- Ambiguous verbs fall back to the member's `agent_verbosity` profile setting.
+
+### Added — Risk-tier system (per-tool, declared in SKILL.md)
+
+- Tools declare risk per operation in their SKILL.md frontmatter (`tool_risks: { magpie.search: low, upload-post.publish: high }`).
+- `low` = SAM runs automatically without confirmation, regardless of verbosity mode.
+- `high` = SAM ALWAYS confirms before running, regardless of mode.
+- Per-step `**[risk: high]**` overrides allowed inline in `do/` files.
+- If a tool has no `tool_risks:` declared, SAM defaults to `high` (safest fallback) and warns the member.
+
+### Added — `agent_verbosity` profile field
+
+- New field in `~/.slingshot/profile.md`: `agent_verbosity: adaptive | explain | terse`.
+- `adaptive` (default for new v2.0.0 members) — narrate first run of a workflow per profile, terse on subsequent runs. Tracks first-run state in `~/.slingshot/workflow-history.jsonl`.
+- `explain` (default for v1.x members upgrading) — preserves the v1.x teach-first behaviour. No silent change for existing members.
+- `terse` — for power users who know the workflows.
+
+### Added — First-v2-invocation migration prompt
+
+- When SAM is invoked and the profile exists but lacks `agent_verbosity`, SAM detects v1.x → v2.0.0 upgrade and runs a one-time migration prompt explaining the new modes + asking the member to pick a default. Saves to profile. Then proceeds with the original request.
+- Default to `explain` if member doesn't pick — preserves v1.x behaviour.
+
+### Changed — "What SAM Does NOT Do" principles
+
+- Old: *"SAM does not do tasks. SAM teaches."*
+- New: *"SAM can teach or do — the verb picks the mode."* Workflows are still made *visible* (clear summaries in execute mode). High-risk operations always confirm regardless of mode.
+
+### Backwards compatibility
+
+- Skills with `learn/` only (Brand Voice Pro, Moby, EP Knowledge) work identically to v1.x. Nothing changes for mentor-only skills.
+- Existing v1.x evals (Q&A, Lesson, Discovery, no-match) all still pass — those modes are unchanged.
+- Existing member profiles without `agent_verbosity` get the migration prompt on first v2 invocation, then default to `explain`.
+- Pricing ($497 / $1,997) unchanged. Agent capability ships as v2.0.0 free upgrade for all members. Future paid `do/` packs (ig-growth, Crowd-Sunday, Veg-launch) priced per-pack on top.
+- Update mechanism (`sam, update`) unchanged. v2 ships via the existing `git pull` path.
+
+### Design references
+
+- Design doc: `Vault/6.Resources/04.AI/Design Plans/2026-05-18-sam-v2-mentor-plus-agent-design.md`
+- Implementation plan: `Vault/6.Resources/04.AI/Design Plans/2026-05-18-sam-v2-implementation-plan.md`
+- First workflow shipping with v2: `ig-growth/do/account-check.md` (read-only weekly account tracker)
+
+---
 
 ## v1.2.0 — 2026-04-03
 
